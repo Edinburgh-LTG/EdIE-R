@@ -7,12 +7,6 @@ The version (EdIE-R-2026) released here has been externally tested on brain imag
 
 Developed through extensive analysis and validation using Scottish brain imaging reports and expert-annotated data, EdIE-R was originally developed for and evaluated on datasets from the [Edinburgh Stroke Study](https://doi.org/10.1186/s13326-019-0211-7) and [NHS Tayside](https://doi.org/10.1186/s12911-019-0908-7). We also validated the initial release for [modifiers and findings](https://aclanthology.org/2020.louhi-1.4/) as well as [negations](https://www.cambridge.org/core/journals/natural-language-engineering/article/comparison-of-rulebased-and-neural-network-models-for-negation-detection-in-radiology-reports/9A7B3868603C408A7DC67D74DB240B7D) marked up in the text.
 
-## Content
-
-* **EdIE-R-2026/data**: provides example data for running the tool.
-* **EdIE-R-2026/doc**: contains documentation.
-* **EdIE-R-2026/edier**: is the EdIE-R pipeline.
-
 ## Supported Phenotypes
 
 EdIE-R labels reports with the following 24 phenotypes at the document-level:
@@ -39,6 +33,12 @@ EdIE-R labels reports with the following 24 phenotypes at the document-level:
 Example ouput can be viewed in html format in `EdIE-R-2026/data/output/synthetic.html` and you can see one labelled synthetic example report below (with document-level phenotype labels shown in the table and other annotations added to the text).
 
 ![Labelled synthetic example report.](/images/figure01.png)
+
+## Content
+
+* **EdIE-R-2026/data**: provides example data for running the tool.
+* **EdIE-R-2026/doc**: contains documentation.
+* **EdIE-R-2026/edier**: is the EdIE-R pipeline.
 
 ## Documentation
 
