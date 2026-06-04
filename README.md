@@ -7,7 +7,7 @@ Developed through extensive analysis and validation using Scottish brain imaging
 
 The version (EdIE-R-2026) released here has been externally tested on brain imaging reports from [Generation Scotland](https://genscot.ed.ac.uk) reported in our paper (Alex et al., 2026).
 
-Documentation specific to the tool itself, how to run it, its input and output etc. can be found in the `doc` folder.
+Documentation specific to the tool itself, how to run and evaluate it, its input and output formats etc. can be found in the `doc` folder. A good place to start is the `overview.txt` file.
 
 ## Supported Phenotypes
 
