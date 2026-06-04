@@ -21,12 +21,14 @@ git clone https://github.com/Edinburgh-LTG/EdIE-R
 Alex, Beatrice, Grover, Claire, Casey, Arlene, Tobin, Richard, Whalley, Heather, & Whiteley, William (2026). GS-BrainText: A Multi-Site Brain Imaging Report Dataset from Generation Scotland for Clinical Natural Language Processing Development and Validation, In Procedings of the Clinical NLP Workshop, LREC 2026, ELRA Language Resources Association, Palma, Spain, 16th of May 2026, arXiv preprint arXiv:2603.26235.
 
 ```
-@inproceedings{alex2026gs,
+@inproceedings{alex2026gs-braintexts,
   title={GS-BrainText: A Multi-Site Brain Imaging Report Dataset from Generation Scotland for Clinical Natural Language Processing Development and Validation},
   author={Alex, Beatrice and Grover, Claire and Casey, Arlene and Tobin, Richard and Whalley, Heather and & Whiteley, William},
   booktitle={LREC 2026},
   year={2026},
   organization={ELRA Language Resources Association},
+  location={Palma, Spain},
+  date={16th of May 2026},
   url={https://arxiv.org/abs/2603.26235}
 }
 ```
