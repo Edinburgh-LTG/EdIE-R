@@ -1,5 +1,5 @@
 # EdIE-R
-A tool for phenotyping brain imaging reports.
+**<em>A tool for phenotyping brain imaging reports.</em>**
 
 The Edinburgh Information Extraction for Radiology reports (EdIE-R) system is a text mining pipeline designed to classify reports of CT and MRI brain scans. It automatically assigns phenotypes, labels that indicate the presence and type of conditions such as types of stroke and tumour, along with other neurological findings. EdIE-R extracts entities, detects negation and identifies relationships between entities within each report, and generates report-level labels.
 
