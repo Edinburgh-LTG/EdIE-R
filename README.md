@@ -3,11 +3,13 @@
 
 The Edinburgh Information Extraction for Radiology reports (EdIE-R) system is a text mining pipeline designed to classify reports of CT and MRI brain scans. It automatically assigns phenotypes, labels that indicate the presence and type of conditions such as types of stroke and tumour, along with other neurological findings. EdIE-R extracts entities, detects negation and identifies relationships between entities within each report, and generates report-level labels.
 
-The version (EdIE-R-2026) released here has been externally tested on brain imaging reports from [Generation Scotland](https://genscot.ed.ac.uk) reported in our paper cited below (Alex et al., 2026) and [was previously compared to four other systems](https://doi.org/10.3389/fdgth.2023.1184919).
+The version (EdIE-R-2026) released here has been externally tested on brain imaging reports from [Generation Scotland](https://genscot.ed.ac.uk) reported in our paper cited below (Alex et al., 2026) and was previously [compared to four other systems](https://doi.org/10.3389/fdgth.2023.1184919).
 
 Developed through extensive analysis and validation using Scottish brain imaging reports and expert-annotated data, EdIE-R was originally developed for and evaluated on datasets from the [Edinburgh Stroke Study](https://doi.org/10.1186/s13326-019-0211-7) and [NHS Tayside](https://doi.org/10.1186/s12911-019-0908-7). We also validated the initial release for [modifiers and findings](https://aclanthology.org/2020.louhi-1.4/) as well as [negations](https://www.cambridge.org/core/journals/natural-language-engineering/article/comparison-of-rulebased-and-neural-network-models-for-negation-detection-in-radiology-reports/9A7B3868603C408A7DC67D74DB240B7D) marked up in the text.
 
-Documentation specific to the tool itself, how to run and evaluate it, its input and output formats etc. can be found in the `doc` folder. A good place to start is the `overview.txt` file.
+## Documentation
+
+Documentation specific to the tool, how to run and evaluate it, its input and output formats etc. can be found in the `doc` folder. A good place to start is the `overview.txt` file.
 
 ## Supported Phenotypes
 
@@ -32,11 +34,11 @@ EdIE-R labels reports with the following 24 phenotypes at the document-level:
 * Microbleed: Deep · Lobar · Underspecified
 * Haemorrhagic transformation
 
-Example ouput can be viewed in html format in `data/output/synthetic.html` and you can see one labelled synthetic example report below (with document-levle phenotype labels shown in the table and other annotations added to the text).
+Example ouput can be viewed in html format in [data/output/synthetic.html](data/output/synthetic.html) and you can see one labelled synthetic example report below (with document-level phenotype labels shown in the table and other annotations added to the text).
 
 ![Labelled synthetic example report.](/images/figure01.png)
 
-## Installation
+## GitHub Installation
 
 ```bash
 git clone https://github.com/Edinburgh-LTG/EdIE-R
