@@ -13,15 +13,15 @@ Documentation specific to the tool itself, how to run it, its input and output e
 
 EdIE-R labels reports with the following 24 phenotypes at the document-level:
 
-### Stroke (11)
+#### Stroke (11)
 Ischaemic stroke: Deep recent/old · Cortical recent/old  · Underspecified
 Haemorrhagic stroke: Deep/Lobar recent/old · Underspecified 
 Stroke: underspecified
 
-### Tumour (4)
+#### Tumour (4)
 Meningioma · Metastasis · Glioma · Other
 
-### Other Neurological Findings (9)
+#### Other Neurological Findings (9)
 Small vessel disease
 Atrophy
 Subdural haematoma
