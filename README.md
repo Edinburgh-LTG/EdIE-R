@@ -1,7 +1,9 @@
 # EdIE-R
-**<em>A tool for phenotyping brain imaging reports.</em>**
+**<em>A tool for phenotyping brain imaging reports...</em>**
 
-The Edinburgh Information Extraction for Radiology reports (EdIE-R) system is a text mining pipeline designed to classify reports of CT and MRI brain scans. It automatically assigns phenotypes, labels that indicate the presence and type of conditions such as types of stroke and tumour, along with other neurological findings. EdIE-R extracts entities, detects negation and identifies relationships between entities within each report, and generates report-level labels.
+... and reported on in our paper: [**GS-BrainText: A Multi-Site Brain Imaging Report Dataset from Generation Scotland for Clinical Natural Language Processing Development and Validation.**](https://arxiv.org/abs/2603.26235) at the Clinical NLP Workshop at LREC 20206.
+
+The **Edinburgh Information Extraction for Radiology reports (EdIE-R)** system is a text mining pipeline designed to classify reports of CT and MRI brain scans. It automatically assigns phenotypes, labels that indicate the presence and type of conditions such as types of stroke and tumour, along with other neurological findings. EdIE-R extracts entities, detects negation and identifies relationships between entities within each report, and generates report-level labels.
 
 The version (EdIE-R-2026) released here has been externally tested on brain imaging reports from [Generation Scotland](https://genscot.ed.ac.uk) reported in our paper cited below (Alex et al., 2026) and was previously [compared to four other systems](https://doi.org/10.3389/fdgth.2023.1184919).
 
@@ -34,7 +36,7 @@ Example ouput can be viewed in html format in `EdIE-R-2026/data/output/synthetic
 
 ![Labelled synthetic example report.](/images/figure01.png)
 
-## Content
+## Contents
 
 * **EdIE-R-2026/data**: provides example data for running the tool.
 * **EdIE-R-2026/doc**: contains documentation.
