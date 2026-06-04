@@ -5,7 +5,7 @@ The Edinburgh Information Extraction for Radiology reports (EdIE-R) system is a 
 
 Developed through extensive analysis and validation using Scottish brain imaging reports and expert-annotated data, EdIE-R was originally developed for and evaluated on datasets from the [Edinburgh Stroke Study](https://doi.org/10.1186/s13326-019-0211-7) and [NHS Tayside](https://doi.org/10.1186/s12911-019-0908-7).
 
-The version (EdIE-R-2026) released here has been externally tested on radiology reports from from [Generation Scotland](https://genscot.ed.ac.uk) reported in our paper (Alex et al., 2026).
+The version (EdIE-R-2026) released here has been externally tested on brain imaging reports from [Generation Scotland](https://genscot.ed.ac.uk) reported in our paper (Alex et al., 2026).
 
 Documentation specific to the tool itself, how to run it, its input and output etc. can be found in the `doc` folder.
 
