@@ -1,0 +1,28 @@
+#!/bin/sh
+
+usage="xmltohtml <output.xml >output.html"
+
+descr="Convert system output to html for visualisation."
+
+. `dirname $0`/setup
+
+while [ $# -gt 0 ]; do
+  arg=$1
+  shift
+  case $arg in
+    *)
+      echo "usage: $usage" >&2
+      exit 2
+  esac
+done
+
+if [ $# -ne -0 ]; then
+  echo "usage: $usage" >&2
+  exit 2
+fi
+
+lib=$here/lib/visualise
+
+lxinline -sw 'parts/part[1]/@sw' -ew 'parts/part[last()]/@ew' |
+lxt -s $lib/xmltohtml.xsl
+

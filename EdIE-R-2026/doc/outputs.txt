@@ -1,0 +1,82 @@
+EdIE-R Output
+-------------
+
+In doc/run-edier.txt we describe how to test run EdIE-R. Here we
+describe the commands used to create the output files in data/output/.
+These commands have been run from the scripts directory, i.e. after
+changing directory:
+
+cd edier/scripts/
+
+The following command was used to run EdiE-Ron the input and write its
+output to data/output/.
+
+cat ../../data/input/synthetic.xml | ./run > ../../data/output/synthetic.xml
+
+
+Creating CSV files
+------------------
+
+Most users will prefer to use the mark-up in EdIE-R output files in a
+more convenient form. If only the phenotypes and the metadata are of
+interest, this information has been converted to CSV format which can
+be opened with spreadsheet software (see doc/columns.txt for a list of
+the column headings). The CSV file data/output/synthetic.csv was
+created by running the xmltocsv script on the XML output file.
+
+cat ../../data/output/synthetic.xml | ./xmltocsv > ../../data/output/synthetic.csv
+
+
+Creating HTML files
+-------------------
+
+It is easiest to understand the full range of mark-up, i.e. entities,
+relations, negation and labels (phenotypes), by visualising the
+documents. One way to do this is to convert the .xml output files to
+HTML by running the xmltohtml script. The resulting HTML file,
+data/output/synthetic.html, can be opened in a browser. NB this is not
+the clearest visualisation because relations are not very clearly
+indicated: entities which are arguments in a relation are shown in
+square brackets but the link between them is not shown. The brat
+visualisation described below is clearer but requires the installation
+of brat.
+
+cat ../../data/output/synthetic.xml | ./xmltohtml > ../../data/output/synthetic.html
+
+
+Converting to brat
+------------------
+
+Brat format involves pairs of files, one containing the text (.txt)
+and one containing the annotations (.ann) which point to character
+offsets in the text. Additionally each report is required to be in a
+separate pair of files, unlike the other formats where multiple
+reports occur in a single file. Because of this, a subdirectory for 
+brat files was created:
+
+mkdir ../../data/output/brat
+
+The script makebratformat takes an EdIE-R output .xml file as input
+and creates four files per report, with the extensions .xml, -ann.xml,
+.txt and .ann:
+
+0001-ann.xml  0002-ann.xml  0003-ann.xml
+0001.ann      0002.ann      0003.ann
+0001.txt      0002.txt      0003.txt
+0001.xml      0002.xml      0003.xml
+
+Here, 0001.xml is report number 0001 extracted from
+data/output/synthetic.xml. 0001-ann.xml is a simplified version of
+0001.xml which acts as a stepping stone in the conversion to the
+actual brat files, 0001.txt and 0001.ann.
+
+The brat files were created like this:
+
+./makebratformat -d ../../data/output/brat < ../../data/output/synthetic.xml 
+
+To use the brat files, users will need to install brat and use the
+configuration files in doc/bratconfig/.
+
+To see how the reports look in brat, see the screenshots in
+data/output/brat/screenshots/.
+

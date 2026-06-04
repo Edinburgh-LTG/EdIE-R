@@ -1,0 +1,24 @@
+<annotationscheme>
+  <attribute id="level_entity_type" name="entity_type" type="nominal_list" text="Select the entity type">
+    <value id="value_sortal_class_type_skill" name="skill" />
+    <value id="value_sortal_class_type_qualification" name="qualification" />
+    <value id="value_sortal_class_type_jobtitle" name="jobtitle" next="level_candidate_attributes" />
+    <value id="value_sortal_class_type_location" name="location" next="level_candidate_attributes" />
+    <value id="value_sortal_class_type_organization" name="organization" next="level_candidate_attributes" />
+    <value id="value_sortal_class_type_person" name="person" next="level_candidate_attributes" />
+    <value id="value_sortal_class_type_date" name="date" />
+    <value id="value_sortal_class_type_date-range" name="date-range" />
+    <value id="value_sortal_class_type_timespan" name="timespan" />
+    <value id="value_sortal_class_type_dob" name="dob" next="level_candidate_attributes" />
+    <value id="value_sortal_class_type_address" name="address" next="level_candidate_attributes" />
+    <value id="value_sortal_class_type_phone" name="phone" next="level_candidate_attributes" />
+    <value id="value_sortal_class_type_postcode" name="postcode" next="level_candidate_attributes" />
+    <value id="value_sortal_class_type_email" name="email" next="level_candidate_attributes" />
+    <value id="value_sortal_class_type_url" name="url" next="level_candidate_attributes" />
+    <value id="value_sortal_class_type_group" name="group" />
+  </attribute>
+  <attribute id="level_candidate_attributes" name="candidate" type="nominal_button">
+    <value id="value_sortal_class_type_candidate" name="true" />
+    <value id="value_sortal_class_type_candidate" name="false" />
+  </attribute>
+</annotationscheme>

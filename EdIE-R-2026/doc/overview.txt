@@ -1,0 +1,82 @@
+This package contains the EdIE-R software described in Alex et. al
+(2026), which is available at <<LINK>>, as well as synthetic example
+metadata are made up.
+
+
+PACKAGE CONTENTS OVERVIEW
+-------------------------
+
+The example input file, data/input/synthetic.xml, contains three
+reports on brain scans in the same format and style as Generation
+Scotland data. Users with their own reports will need to use the same
+input format if they wish to run EdIE-R on their data.
+
+The directory structure of this release separates the data from the
+system: the two top directories are data and edier. Under data are
+input and output directories containing the example file. We use XML
+for both input and system output format: the reports are minimally
+marked up in input format while processing with EdIE-R augments this
+mark-up with layers of linguistic information including mark-up of
+relevant entities, relations and negation as well as the ultimate
+output identifying which of twenty-four phenotypes (document level
+labels) have been recognised.
+
+An input file contains all the reports within a root <records>
+element. Each report is contained in a <document> element with a
+unique id attribute. Each document contains <meta>, <text> and
+<standoff> sections. <meta> is where information about the report is
+kept, for example, id, type of scan, age and sex of patient. <text>
+contains the text of the report split into sections, i.e. <section
+type="clinical"> and <section type="report">. Usually both of these
+sections are present but it is possible for one or both of them to be
+absent, e.g., in the example input, the second report has no clinical
+section. The <standoff> in the input is always empty: it becomes
+populated with information about entities, relations and negation
+during the course of processing with EdIE-R.
+
+The results of running EdIE-R on the example file can be found in
+data/output/synthetic.xml. The output directory also contains
+conversions of this XML output file to other formats:
+
+csv
+---
+
+data/output/synthetic.csv is a CSV file derived from the XML
+output. It contains columns for the twenty-four phenotypes as well as
+various metadata fields. CSV files like this can be loaded into
+spreadsheet applications. The column headings in the CSV files are
+listed in columns.txt in this directory.
+  
+html
+----
+
+data/output/synthetic.html is an HTML file which can be opened in a
+browser to visualise the mark-up in the output XML file. 
+  
+brat
+----
+
+data/output/ contains a directory called brat. This contains system
+output in the format required for the brat annotation tool (which is
+the tool we used to create manual annotations for the Generation
+Scotland data). This format requires each report to be in separate
+files, a .txt file containing the textual content of the report and a
+.ann file containing annotations linked via character offsets. For
+example data/output/brat/0001.txt and data/output/brat/0001.ann are
+the brat files for report number 0001. Loading these files into brat
+(configuration files provided in doc/bratconfig/) provides a useful
+way to visualise the reports and their mark-up. In the directory
+data/output/brat/screenshots/ we have provided screenshots to show how
+the reports look when loaded into brat.
+
+
+Also in the brat directory are files with .xml and -ann.xml extensions
+(e.g. data/output/brat/0001.xml and data/output/brat/0001-ann.xml)
+which are intermediate files created in the process of conversion to
+brat. So data/output/brat/0001.xml is the individual report extracted
+from data/output/synthetic.xml and data/output/brat/0001-ann.xml is a
+simplified version of this which is both a stepping stone to the brat
+files (.txt and .ann) and the version of the output which is used by
+our evaluation tools, which are described in doc/evaluation.txt.
+
+

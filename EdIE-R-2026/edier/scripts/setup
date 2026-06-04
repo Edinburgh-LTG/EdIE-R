@@ -1,0 +1,71 @@
+#!/bin/sh
+
+if [ "x$1" = "x-help" ]; then
+  cat >&2 <<END
+
+usage: $usage
+
+END
+  echo "$descr" | fmt
+  exit 0
+fi
+
+here=`dirname $0`
+here=`cd $here/..; pwd`
+
+if [ -z "$LXPATH" ]; then
+
+ case `uname -srm` in
+  Darwin*arm64)
+    bin=$here/bin/sys-arm-64-sequoia
+	SED="sed -E"
+    ;;
+  Linux*x86_64*)
+    bin=$here/bin/sys-x86-64-el7
+	SED="sed -r"
+    ;;
+  *)
+    echo "unrecognised platform `uname -srm`" >&2
+    echo "edit scripts/setup, or set LXPATH to appropriate path" >&2
+    exit 1
+ esac
+
+ export PATH=$bin:/bin:/usr/bin
+ export LANG=C
+
+
+else
+
+ export PATH="$LXPATH"
+ # We don't use this any more, I think
+ SED="SED-not-set"
+
+fi
+
+#----------------------------------------------------------------------------
+# Standard JAVA setup
+#----------------------------------------------------------------------------
+
+if [ "$JAVA_HOME" == "" ]
+then
+    LOCAL_JAVA=java
+else
+    LOCAL_JAVA=$JAVA_HOME/bin/java
+fi
+
+LOCAL_JAVA="$LOCAL_JAVA -Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"
+
+# This will set the default encoding for Java:
+export LC_ALL=en_GB.UTF-8
+
+#----------------------------------------------------------------------------
+
+tmp=/tmp/$USER-`basename $0`-$$
+
+# make scripts exit when any error occurs
+
+set -e
+
+if [ -z "$LXDEBUG" ]; then
+  trap "rm -f $tmp-*" 0 1 2
+fi

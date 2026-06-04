@@ -1,0 +1,24 @@
+Detailed Scoring Comparison data for document: 0003-ann.xml
+
+FALSE POSITIVES
+===============
+
+FALSE NEGATIVES
+===============
+
+TRUE POSITIVES
+==============
+%TP [EntityFeature "bleed" Type:'haemorrhagic_stroke' vs. 'haemorrhagic_stroke' (e34 1283,1288)]
+%TP [EntityFeature "haemorrhage" Type:'haemorrhagic_stroke' vs. 'haemorrhagic_stroke' (e40 1407,1418)]
+%TP [EntityFeature "Established" Type:'time_old' vs. 'time_old' (e29 1029,1040)]
+%TP [EntityFeature "previous" Type:'time_old' vs. 'time_old' (e41 1446,1454)]
+%TP [EntityFeature "space occupying lesions" Type:'tumour' vs. 'tumour' (e35 1293,1316)]
+%TP [EntityFeature "subcortical" Type:'loc_deep' vs. 'loc_deep' (e31 1056,1067)]
+%TP [EntityFeature "corona radiata" Type:'loc_deep' vs. 'loc_deep' (e32 1169,1183)]
+%TP [EntityFeature "cerebellum" Type:'loc_deep' vs. 'loc_deep' (e37 1351,1361)]
+%TP [EntityFeature "brainstem" Type:'loc_deep' vs. 'loc_deep' (e38 1366,1375)]
+%TP [EntityFeature "extra-axial collection" Type:'subdural_haematoma' vs. 'subdural_haematoma' (e36 1320,1342)]
+%TP [EntityFeature "small vessel disease" Type:'small_vessel_disease' vs. 'small_vessel_disease' (e33 1240,1260)]
+%TP [EntityFeature "parietal" Type:'loc_cortical' vs. 'loc_cortical' (e30 1047,1055)]
+%TP [EntityFeature "acute" Type:'time_recent' vs. 'time_recent' (e39 1401,1406)]
+

@@ -1,0 +1,21 @@
+NER Score Summary
+Type,Number,TP,FP,FN,Precison,Recall,F1
+atrophy,1,1,0,0,100.00,100.00,100.00
+haemorrhagic_stroke,4,4,0,0,100.00,100.00,100.00
+ischaemic_stroke,1,1,0,0,100.00,100.00,100.00
+loc_cortical,8,8,0,0,100.00,100.00,100.00
+loc_deep,6,6,0,0,100.00,100.00,100.00
+metast_tumour,1,1,0,0,100.00,100.00,100.00
+small_vessel_disease,4,4,0,0,100.00,100.00,100.00
+subarachnoid_haemorrhage,2,2,0,0,100.00,100.00,100.00
+subdural_haematoma,4,4,0,0,100.00,100.00,100.00
+time_old,3,3,0,0,100.00,100.00,100.00
+time_recent,6,6,0,0,100.00,100.00,100.00
+tumour,1,1,0,0,100.00,100.00,100.00
+TOTAL,41,41,0,0,100.00,100.00,100.00
+
+Relation Extraction Score Summary
+Type,Number,TP,FP,FN,Precison,Recall,F1
+mod-loc,2,2,0,0,100.00,100.00,100.00
+mod-time,4,4,0,0,100.00,100.00,100.00
+TOTAL,6,6,0,0,100.00,100.00,100.00

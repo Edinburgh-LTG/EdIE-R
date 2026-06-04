@@ -1,0 +1,723 @@
+<document version="2">
+<meta><attr name="title">Personal Information</attr><attr name="tokeniser_version">20080828</attr></meta>
+<text><div type="header"><p para="empty" font-size="10pt" font-name="Arial"/>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+</div><div type="header"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div><div type="header"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w36">Instructor</w> <w pws="yes" c="w" id="w47">Application</w></s></p>
+<p font-size="10pt" font-name="Arial Black" font-style="italic"><s><w pws="yes" c="w" id="w59">Improving</w> <w pws="yes" c="w" id="w69">Process</w> <w pws="yes" c="w" id="w77">Performance</w> <w pws="yes" c="w" id="w89">using</w> <w pws="yes" c="w" id="w95">Six</w> <w pws="yes" c="w" id="w99">Sigma</w></s></p>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="table">
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Arial" font-weight="bold"><s><w pws="yes" c="w" id="w107">Information</w> <w pws="yes" c="w" id="w119">about</w> <w pws="yes" c="w" id="w125">you</w></s></p>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="table">
+
+
+
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w137">First</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w144">Last</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w150">Title</w></s></p>
+</div>
+<div type="table-cell"><p font-size="10pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w157">Rank</w> <w pws="yes" c="br" id="w162">(</w><w c="w" pws="no" id="w163">if</w> <w pws="yes" c="w" id="w166">applicable</w><w c="br" pws="no" id="w176">)</w></s></p>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="table">
+
+
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w185">Email</w> <w pws="yes" c="w" id="w191">Address</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w200">Phone</w> <w pws="yes" c="w" id="w206">number</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w214">Fax</w></s></p>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="table">
+
+
+
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w226">Street</w> <w pws="yes" c="w" id="w233">Address</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w242">City</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w248">State</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w255">Zip</w> <w pws="yes" c="w" id="w259">Code</w></s></p>
+</div>
+</div>
+</div>
+<p para="empty" font-size="9pt" font-name="Arial"/>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="table">
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w271">Information</w> <w pws="yes" c="w" id="w283">about</w> <w pws="yes" c="w" id="w289">your</w> <w pws="yes" c="w" id="w294">organization</w></s></p>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="table">
+
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w313">Sponsoring</w> <w pws="yes" c="w" id="w324">SEI</w> <w pws="yes" c="w" id="w328">Partner</w> <w pws="yes" c="w" id="w336">Organization</w> <w pws="yes" c="w" id="w349">Name</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w355">Division</w><w c="cm" pws="no" id="w363">,</w> <w pws="yes" c="w" id="w365">Department</w><w c="cm" pws="no" id="w375">,</w> <w pws="yes" c="w" id="w377">or</w> <w pws="yes" c="w" id="w380">Branch</w></s></p>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="table">
+
+
+
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w395">Street</w> <w pws="yes" c="w" id="w402">Address</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w411">City</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w417">State</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w424">Zip</w> <w pws="yes" c="w" id="w428">Code</w></s></p>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="table">
+
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w439">SEI</w> <w pws="yes" c="w" id="w443">Partner</w> <w pws="yes" c="w" id="w451">Organization</w> <w pws="yes" c="w" id="w464">Point</w> <w pws="yes" c="w" id="w470">of</w> <w pws="yes" c="w" id="w473">Contact</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w482">POC</w> <w pws="yes" c="w" id="w486">Email</w> <w pws="yes" c="w" id="w492">Address</w></s></p>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="table">
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w507">Qualification</w> <w pws="yes" c="w" id="w521">requirements</w></s></p>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w538">Each</w> <w pws="yes" c="w" id="w543">of</w> <w pws="yes" c="w" id="w546">the</w> <w pws="yes" c="w" id="w550">requirements</w> <w pws="yes" c="w" id="w563">in</w> <w pws="yes" c="w" id="w566">this</w> <w pws="yes" c="w" id="w571">section</w> <w pws="yes" c="w" id="w579">must</w> <w pws="yes" c="w" id="w584">be</w> <w pws="yes" c="w" id="w587">addressed</w> <w pws="yes" c="w" id="w597">by</w> <w pws="yes" c="w" id="w600">the</w> <w pws="yes" c="w" id="w604">applicant</w><w c="." sb="true" pws="no" id="w613">.</w></s></p>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p font-size="10pt" font-name="Arial"><s><w pws="yes" c="cd" id="w616">1</w><w c="." sb="true" pws="no" id="w617">.</w></s> <s><w pws="yes" c="w" id="w619">Provide</w> <w pws="yes" c="w" id="w627">the</w> <w pws="yes" c="w" id="w631">following</w> <w pws="yes" c="w" id="w641">information</w> <w pws="yes" c="w" id="w653">regarding</w> <w pws="yes" c="w" id="w663">your</w> <w pws="yes" c="w" id="w668">attendance</w> <w pws="yes" c="w" id="w679">at</w> <w pws="yes" c="w" id="w682">an</w> <w pws="yes" c="w" id="w685">authorized</w> <w pws="yes" c="w" id="w696">version</w> <w pws="yes" c="w" id="w704">of</w> <w pws="yes" c="w" id="w707">the</w> <w pws="yes" c="w" id="w711">course</w><w c="cm" pws="no" id="w717">,</w> <w pws="yes" c="w" id="w719">Improving</w> <w pws="yes" c="w" id="w729">Process</w> <w pws="yes" c="w" id="w737">Performance</w> <w pws="yes" c="w" id="w749">using</w> <w pws="yes" c="w" id="w755">Six</w> <w pws="yes" c="w" id="w759">Sigma</w><w c="dots" pws="no" id="w764">..</w></s></p>
+<p para="empty" font-size="10pt" font-name="Arial" font-style="italic"/>
+<div type="table">
+
+
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w771">Dates</w> <w pws="yes" c="w" id="w777">attended</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w787">Instructor</w></s></p>
+</div>
+<div type="table-cell"><p para="empty" font-size="9pt" font-name="Tw Cen MT"/>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="table">
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="abbr" id="w805">Instructor</w><w c="aposs" pws="no" id="w815">’s</w> <w pws="yes" c="w" id="w818">Organization</w> <w pws="yes" c="w" id="w831">or</w> <w pws="yes" c="w" id="w834">Company</w></s></p>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="table">
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w848">Qualification</w> <w pws="yes" c="w" id="w862">requirements</w><w c="cm" pws="no" id="w874">,</w> <w pws="yes" c="w" id="w876">continued</w></s></p>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p font-size="10pt" font-name="Arial"><s><w pws="yes" c="cd" id="w890">2</w><w c="." sb="true" pws="no" id="w891">.</w></s> <s><w pws="yes" c="w" id="w893">Complete</w> <w pws="yes" c="w" id="w902">the</w> <w pws="yes" c="w" id="w906">following</w> <w pws="yes" c="w" id="w916">information</w> <w pws="yes" c="w" id="w928">regarding</w> <w pws="yes" c="w" id="w938">your</w> <w pws="yes" c="w" id="w943">college</w><w c="slash" pws="no" id="w950">/</w><w c="w" pws="no" id="w951">university</w> <w pws="yes" c="w" id="w962">indicating</w> <w pws="yes" c="w" id="w973">that</w> <w pws="yes" c="w" id="w978">you</w> <w pws="yes" c="w" id="w982">have</w> <w pws="yes" c="w" id="w987">received</w> <w pws="yes" c="w" id="w996">a</w> <w pws="yes" c="w" id="w998">BS</w> <w pws="yes" c="w" id="w1001">or</w> <w pws="yes" c="w" id="w1004">BA</w> <w pws="yes" c="w" id="w1007">degree</w><w c="cm" pws="no" id="w1013">:</w></s></p>
+<p font-size="10pt" font-name="Arial"> <s><w pws="yes" c="w" id="w1016">Undergraduate</w><w c="cm" pws="no" id="w1029">:</w></s></p>
+<div type="table">
+
+
+
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1035">Highest</w> <w pws="yes" c="w" id="w1043">degree</w> <w pws="yes" c="w" id="w1050">attained</w></s></p>
+</div>
+
+
+
+</div>
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1064">College</w> <w pws="yes" c="w" id="w1072">or</w> <w pws="yes" c="w" id="w1075">University</w></s></p>
+</div>
+
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1088">Dates</w> <w pws="yes" c="w" id="w1094">attended</w></s></p>
+</div>
+
+</div>
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1106">Street</w> <w pws="yes" c="w" id="w1113">Address</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1122">City</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1128">State</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1135">Zip</w> <w pws="yes" c="w" id="w1139">Code</w></s></p>
+</div>
+</div>
+</div>
+<p font-size="8pt" font-name="Arial"> <s><w pws="yes" c="w" id="w1148">Graduate</w><w c="cm" pws="no" id="w1156">:</w></s> </p>
+<div type="table">
+
+
+
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1163">Highest</w> <w pws="yes" c="w" id="w1171">degree</w> <w pws="yes" c="w" id="w1178">attained</w></s></p>
+</div>
+
+
+
+</div>
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1192">College</w> <w pws="yes" c="w" id="w1200">or</w> <w pws="yes" c="w" id="w1203">University</w></s></p>
+</div>
+
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1216">Dates</w> <w pws="yes" c="w" id="w1222">attended</w></s></p>
+</div>
+
+</div>
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1234">Street</w> <w pws="yes" c="w" id="w1241">Address</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1250">City</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1256">State</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1263">Zip</w> <w pws="yes" c="w" id="w1267">Code</w></s></p>
+</div>
+</div>
+</div>
+<p para="empty" font-size="8pt" font-name="Arial"/>
+<p font-size="10pt" font-name="Arial"><s><w pws="yes" c="cd" id="w1276">3</w><w c="." sb="true" pws="no" id="w1277">.</w></s> <s><w pws="yes" c="w" id="w1279">Provide</w> <w pws="yes" c="w" id="w1287">the</w> <w pws="yes" c="w" id="w1291">following</w> <w pws="yes" c="w" id="w1301">information</w> <w pws="yes" c="w" id="w1313">regarding</w> <w pws="yes" c="w" id="w1323">your</w> <w pws="yes" c="w" id="w1328">successful</w> <w pws="yes" c="w" id="w1339">completion</w> <w pws="yes" c="w" id="w1350">of</w> <w pws="yes" c="hyw" id="w1353">measurement-related</w> <w pws="yes" c="w" id="w1373">courses</w> <w pws="yes" c="w" id="w1381">and</w> <w pws="yes" c="w" id="w1385">or</w> <w pws="yes" c="w" id="w1388">certifications</w> <w pws="yes" c="w" id="w1403">other</w> <w pws="yes" c="w" id="w1409">than</w> <w pws="yes" c="w" id="w1414">IPPSS</w> <w pws="yes" c="br" id="w1420">(</w><w c="abbr" pws="no" id="w1421">e.g.</w><w c="cm" pws="no" id="w1425">,</w> <w pws="yes" c="w" id="w1427">Statistics</w><w c="cm" pws="no" id="w1437">,</w> <w pws="yes" c="w" id="w1439">Practical</w> <w pws="yes" c="w" id="w1449">Software</w> <w pws="yes" c="w" id="w1458">Measurement</w><w c="cm" pws="no" id="w1469">,</w> <w pws="yes" c="w" id="w1471">Six</w> <w pws="yes" c="w" id="w1475">Sigma</w> <w pws="yes" c="w" id="w1481">Green</w> <w pws="yes" c="cc" id="w1487">and/or</w> <w pws="yes" c="w" id="w1494">Black</w> <w pws="yes" c="w" id="w1500">Belt</w> <w pws="yes" c="w" id="w1505">training</w><w c="cm" pws="no" id="w1513">,</w> <w pws="yes" c="w" id="w1515">Personal</w> <w pws="yes" c="w" id="w1524">Software</w> <w pws="yes" c="w" id="w1533">Process</w><w c="cm" pws="no" id="w1540">,</w> <w pws="yes" c="w" id="w1542">etc</w><w c="." pws="no" id="w1545">.</w><w c="br" pws="no" id="w1546">)</w><w c="cm" pws="no" id="w1547">:</w></s></p>
+<p font-size="10pt" font-name="Arial"><div type="table">
+
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1551">Course</w> <w pws="yes" c="w" id="w1558">Name</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1564">Dates</w> <w pws="yes" c="w" id="w1570">and</w> <w pws="yes" c="w" id="w1574">location</w> <w pws="yes" c="w" id="w1583">attended</w></s></p>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1594">Organization</w> <w pws="yes" c="w" id="w1607">who</w> <w pws="yes" c="w" id="w1611">presented</w> <w pws="yes" c="w" id="w1621">the</w> <w pws="yes" c="w" id="w1625">course</w><w c="slash" pws="no" id="w1631">/</w><w c="w" pws="no" id="w1632">certification</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1647">Instructor</w> <w pws="yes" c="w" id="w1658">Name</w></s></p>
+</div>
+</div>
+</div>
+</p>
+<p font-size="10pt" font-name="Arial"><div type="table">
+
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1669">Course</w> <w pws="yes" c="w" id="w1676">Name</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1682">Dates</w> <w pws="yes" c="w" id="w1688">and</w> <w pws="yes" c="w" id="w1692">location</w> <w pws="yes" c="w" id="w1701">attended</w></s></p>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1712">Organization</w> <w pws="yes" c="w" id="w1725">who</w> <w pws="yes" c="w" id="w1729">presented</w> <w pws="yes" c="w" id="w1739">the</w> <w pws="yes" c="w" id="w1743">course</w><w c="slash" pws="no" id="w1749">/</w><w c="w" pws="no" id="w1750">certification</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1765">Instructor</w> <w pws="yes" c="w" id="w1776">Name</w></s></p>
+</div>
+</div>
+</div>
+</p>
+<div type="list"><div type="list-item"><p font-size="10pt" font-name="Arial"><div type="table">
+
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1787">Course</w> <w pws="yes" c="w" id="w1794">Name</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1800">Dates</w> <w pws="yes" c="w" id="w1806">and</w> <w pws="yes" c="w" id="w1810">location</w> <w pws="yes" c="w" id="w1819">attended</w></s></p>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1830">Organization</w> <w pws="yes" c="w" id="w1843">who</w> <w pws="yes" c="w" id="w1847">presented</w> <w pws="yes" c="w" id="w1857">the</w> <w pws="yes" c="w" id="w1861">course</w><w c="slash" pws="no" id="w1867">/</w><w c="w" pws="no" id="w1868">certification</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w1883">Instructor</w> <w pws="yes" c="w" id="w1894">Name</w></s></p>
+</div>
+</div>
+</div>
+<s><w pws="yes" c="w" id="w1902">You</w> <w pws="yes" c="w" id="w1906">must</w> <w pws="yes" c="w" id="w1911">have</w> <w pws="yes" c="w" id="w1916">at</w> <w pws="yes" c="w" id="w1919">least</w> <w pws="yes" c="cd" id="w1925">10</w> <w pws="yes" c="w" id="w1928">years</w> <w pws="yes" c="w" id="w1934">of</w> <w pws="yes" c="w" id="w1937">overall</w> <w pws="yes" c="w" id="w1945">work</w> <w pws="yes" c="w" id="w1950">experience</w> <w pws="yes" c="w" id="w1961">and</w> <w pws="yes" c="w" id="w1965">with</w> <w pws="yes" c="w" id="w1970">at</w> <w pws="yes" c="w" id="w1973">least</w> <w pws="yes" c="cd" id="w1979">7</w> <w pws="yes" c="w" id="w1981">years</w> <w pws="yes" c="w" id="w1987">experience</w> <w pws="yes" c="w" id="w1998">working</w> <w pws="yes" c="w" id="w2006">in</w> <w pws="yes" c="w" id="w2009">measurement</w> <w pws="yes" c="w" id="w2021">activity</w> <w pws="yes" c="w" id="w2030">supporting</w> <w pws="yes" c="w" id="w2041">business</w> <w pws="yes" c="w" id="w2050">improvement</w><w c="." sb="true" pws="no" id="w2061">.</w></s> <s><w pws="yes" c="w" id="w2063">These</w> <w pws="yes" c="cd" id="w2069">7</w> <w pws="yes" c="w" id="w2071">years</w> <w pws="yes" c="w" id="w2077">can</w> <w pws="yes" c="w" id="w2081">include</w> <w pws="yes" c="w" id="w2089">consulting</w> <w pws="yes" c="w" id="w2100">teaching</w> <w pws="yes" c="w" id="w2109">or</w> <w pws="yes" c="w" id="w2112">training</w> <w pws="yes" c="w" id="w2121">organizations</w> <w pws="yes" c="w" id="w2135">in</w> <w pws="yes" c="w" id="w2138">implementing</w> <w pws="yes" c="w" id="w2151">their</w> <w pws="yes" c="w" id="w2157">measurement</w> <w pws="yes" c="w" id="w2169">programs</w><w c="." sb="true" pws="no" id="w2177">.</w></s></p>
+</div>
+</div>
+<p font-size="10pt" font-name="Arial">  <s><w pws="yes" c="w" id="w2183">Provide</w> <w pws="yes" c="w" id="w2191">the</w> <w pws="yes" c="w" id="w2195">following</w> <w pws="yes" c="w" id="w2205">information</w> <w pws="yes" c="w" id="w2217">as</w> <w pws="yes" c="w" id="w2220">evidence</w> <w pws="yes" c="w" id="w2229">that</w> <w pws="yes" c="w" id="w2234">you</w> <w pws="yes" c="w" id="w2238">have</w> <w pws="yes" c="w" id="w2243">successfully</w> <w pws="yes" c="w" id="w2256">met</w> <w pws="yes" c="w" id="w2260">this</w> <w pws="yes" c="w" id="w2265">requirement</w><w c="." sb="true" pws="no" id="w2276">.</w></s></p>
+<div type="list"><div type="list-item"><p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w2278">copy</w> <w pws="yes" c="w" id="w2283">of</w> <w pws="yes" c="w" id="w2286">your</w> <w pws="yes" c="w" id="w2291">resume</w> <w pws="yes" c="w" id="w2298">indicating</w> <w pws="yes" c="w" id="w2309">relevant</w> <w pws="yes" c="w" id="w2318">information</w> <w pws="yes" c="w" id="w2330">that</w> <w pws="yes" c="w" id="w2335">addresses</w> <w pws="yes" c="w" id="w2345">this</w> <w pws="yes" c="w" id="w2350">requirement</w> <w pws="yes" c="w" id="w2362">such</w> <w pws="yes" c="w" id="w2367">as</w></s></p>
+<div type="list"><div type="list-item"><p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w2370">Company</w> <w pws="yes" c="w" id="w2378">and</w> <w pws="yes" c="w" id="w2382">organization</w></s></p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w2396">Your</w> <w pws="yes" c="w" id="w2401">position</w><w c="slash" pws="no" id="w2409">/</w><w c="w" pws="no" id="w2410">title</w> <w pws="yes" c="w" id="w2416">while</w> <w pws="yes" c="w" id="w2422">employed</w> <w pws="yes" c="w" id="w2431">in</w> <w pws="yes" c="w" id="w2434">software</w> <w pws="yes" c="w" id="w2443">engineering</w></s></p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w2456">Description</w> <w pws="yes" c="w" id="w2468">of</w> <w pws="yes" c="w" id="w2471">project</w> <w pws="yes" c="w" id="w2479">team</w> <w pws="yes" c="w" id="w2484">work</w> <w pws="yes" c="w" id="w2489">you</w> <w pws="yes" c="w" id="w2493">were</w> <w pws="yes" c="w" id="w2498">involved</w> <w pws="yes" c="w" id="w2507">in</w></s> </p>
+</div>
+</div>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w2514">contact</w> <w pws="yes" c="w" id="w2522">information</w> <w pws="yes" c="w" id="w2534">of</w> <w pws="yes" c="w" id="w2537">your</w> <w pws="yes" c="w" id="w2542">managers</w> <w pws="yes" c="w" id="w2551">while</w> <w pws="yes" c="w" id="w2557">you</w> <w pws="yes" c="w" id="w2561">were</w> <w pws="yes" c="w" id="w2566">employed</w> <w pws="yes" c="w" id="w2575">in</w> <w pws="yes" c="w" id="w2578">software</w> <w pws="yes" c="w" id="w2587">engineering</w><w c="cm" pws="no" id="w2598">;</w> <w pws="yes" c="w" id="w2600">please</w> <w pws="yes" c="w" id="w2607">provide</w> <w pws="yes" c="w" id="w2615">both</w> <w pws="yes" c="w" id="w2620">current</w> <w pws="yes" c="w" id="w2628">telephone</w> <w pws="yes" c="w" id="w2638">numbers</w> <w pws="yes" c="w" id="w2646">and</w> <w pws="yes" c="w" id="w2650">current</w> <w pws="yes" c="w" id="w2658">email</w> <w pws="yes" c="w" id="w2664">addresses</w><w c="cm" pws="no" id="w2673">;</w> <w pws="yes" c="w" id="w2675">use</w> <w pws="yes" c="w" id="w2679">the</w> <w pws="yes" c="w" id="w2683">table</w> <w pws="yes" c="w" id="w2689">below</w> <w pws="yes" c="w" id="w2695">to</w> <w pws="yes" c="w" id="w2698">record</w> <w pws="yes" c="w" id="w2705">this</w> <w pws="yes" c="w" id="w2710">information</w><w c="cm" pws="no" id="w2721">:</w></s></p>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="table">
+
+
+
+
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Arial"><s><w pws="yes" c="w" id="w2731">Start</w> <w pws="yes" c="w" id="w2737">date</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Arial"><s><w pws="yes" c="w" id="w2743">Finish</w> <w pws="yes" c="w" id="w2750">date</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Arial"><s><w pws="yes" c="abbr" id="w2756">Manager</w><w c="aposs" pws="no" id="w2763">’s</w> <w pws="yes" c="w" id="w2766">name</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Arial"><s><w pws="yes" c="abbr" id="w2772">Manager</w><w c="aposs" pws="no" id="w2779">’s</w> <w pws="yes" c="w" id="w2782">phone</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Arial"><s><w pws="yes" c="abbr" id="w2789">Manager</w><w c="aposs" pws="no" id="w2796">’s</w> <w pws="yes" c="w" id="w2799">email</w></s></p>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="9pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="table">
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Arial" font-weight="bold"><s><w pws="yes" c="w" id="w2876">Qualification</w> <w pws="yes" c="w" id="w2890">requirements</w><w c="cm" pws="no" id="w2902">,</w> <w pws="yes" c="w" id="w2904">continued</w></s></p>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p font-size="10pt" font-name="Arial"><s><w pws="yes" c="cd" id="w2918">5</w><w c="." sb="true" pws="no" id="w2919">.</w></s> <s><w pws="yes" c="w" id="w2921">Complete</w> <w pws="yes" c="w" id="w2930">the</w> <w pws="yes" c="w" id="w2934">following</w> <w pws="yes" c="w" id="w2944">information</w> <w pws="yes" c="w" id="w2956">regarding</w> <w pws="yes" c="w" id="w2966">your</w> <w pws="yes" c="w" id="w2971">successful</w> <w pws="yes" c="w" id="w2982">completion</w> <w pws="yes" c="w" id="w2993">of</w> <w pws="yes" c="w" id="w2996">a</w> <w pws="yes" c="w" id="w2998">Instructor</w> <w pws="yes" c="w" id="w3009">training</w> <w pws="yes" c="w" id="w3018">or</w> <w pws="yes" c="w" id="w3021">facilitation</w> <w pws="yes" c="w" id="w3034">skills</w> <w pws="yes" c="w" id="w3041">course</w><w c="cm" pws="no" id="w3047">:</w></s></p>
+<p font-size="10pt" font-name="Arial"><div type="table">
+
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w3051">Course</w> <w pws="yes" c="w" id="w3058">Name</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w3064">Dates</w> <w pws="yes" c="w" id="w3070">and</w> <w pws="yes" c="w" id="w3074">location</w> <w pws="yes" c="w" id="w3083">attended</w></s></p>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w3094">Organization</w> <w pws="yes" c="w" id="w3107">who</w> <w pws="yes" c="w" id="w3111">presented</w> <w pws="yes" c="w" id="w3121">the</w> <w pws="yes" c="w" id="w3125">course</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w3133">Instructor</w> <w pws="yes" c="w" id="w3144">Name</w></s></p>
+</div>
+</div>
+</div>
+</p>
+<p font-size="10pt" font-name="Arial"><s><w pws="yes" c="cd" id="w3153">6</w><w c="." sb="true" pws="no" id="w3154">.</w></s> <s><w pws="yes" c="w" id="w3156">Submit</w> <w pws="yes" c="w" id="w3163">at</w> <w pws="yes" c="w" id="w3166">least</w> <w pws="yes" c="w" id="w3172">one</w> <w pws="yes" c="w" id="w3176">summary</w> <w pws="yes" c="w" id="w3184">description</w> <w pws="yes" c="w" id="w3196">of</w> <w pws="yes" c="w" id="w3199">a</w> <w pws="yes" c="w" id="w3201">DMAIC</w> <w pws="yes" c="w" id="w3207">project</w> <w pws="yes" c="w" id="w3215">your</w> <w pws="yes" c="w" id="w3220">lead</w> <w pws="yes" c="w" id="w3225">which</w> <w pws="yes" c="w" id="w3231">saved</w> <w pws="yes" c="w" id="w3237">an</w> <w pws="yes" c="w" id="w3240">organization</w> <w pws="yes" c="w" id="w3253">at</w> <w pws="yes" c="w" id="w3256">least</w> <w pws="yes" c="sym" id="w3262">$</w><w c="abbr" pws="no" id="w3263">50k</w><w c="." sb="true" pws="no" id="w3266">.</w></s> <s><w pws="yes" c="w" id="w3268">Please</w> <w pws="yes" c="w" id="w3275">provide</w> <w pws="yes" c="w" id="w3283">the</w> <w pws="yes" c="w" id="w3287">following</w> <w pws="yes" c="w" id="w3297">information</w> <w pws="yes" c="w" id="w3309">so</w> <w pws="yes" c="w" id="w3312">that</w> <w pws="yes" c="w" id="w3317">we</w> <w pws="yes" c="w" id="w3320">can</w> <w pws="yes" c="w" id="w3324">validate</w> <w pws="yes" c="w" id="w3333">that</w> <w pws="yes" c="w" id="w3338">you</w> <w pws="yes" c="w" id="w3342">have</w> <w pws="yes" c="w" id="w3347">successfully</w> <w pws="yes" c="w" id="w3360">met</w> <w pws="yes" c="w" id="w3364">this</w> <w pws="yes" c="w" id="w3369">requirement</w></s></p>
+<div type="list"><div type="list-item"><p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w3381">copy</w> <w pws="yes" c="w" id="w3386">of</w> <w pws="yes" c="w" id="w3389">final</w> <w pws="yes" c="w" id="w3395">report</w> <w pws="yes" c="w" id="w3402">and</w> <w pws="yes" c="w" id="w3406">a</w> <w pws="yes" c="w" id="w3408">copy</w> <w pws="yes" c="w" id="w3413">of</w> <w pws="yes" c="w" id="w3416">the</w> <w pws="yes" c="w" id="w3420">team</w> <w pws="yes" c="w" id="w3425">charter</w></s> </p>
+<div type="list"><div type="list-item"><p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w3434">Company</w> <w pws="yes" c="w" id="w3442">and</w> <w pws="yes" c="w" id="w3446">organization</w> <w pws="yes" c="w" id="w3459">where</w> <w pws="yes" c="w" id="w3465">you</w> <w pws="yes" c="w" id="w3469">participated</w></s> </p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w3484">The</w> <w pws="yes" c="w" id="w3488">calendar</w> <w pws="yes" c="w" id="w3497">dates</w> <w pws="yes" c="w" id="w3503">that</w> <w pws="yes" c="w" id="w3508">you</w> <w pws="yes" c="w" id="w3512">were</w> <w pws="yes" c="w" id="w3517">engaged</w></s> </p>
+</div>
+</div>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w3529">current</w> <w pws="yes" c="w" id="w3537">contact</w> <w pws="yes" c="w" id="w3545">information</w> <w pws="yes" c="w" id="w3557">of</w> <w pws="yes" c="w" id="w3560">the</w> <w pws="yes" c="w" id="w3564">management</w> <w pws="yes" c="w" id="w3575">sponsor</w> <w pws="yes" c="w" id="w3583">of</w> <w pws="yes" c="w" id="w3586">Master</w> <w pws="yes" c="w" id="w3593">Blackbelt</w> <w pws="yes" c="w" id="w3603">Mentor</w> <w pws="yes" c="w" id="w3610">at</w> <w pws="yes" c="w" id="w3613">the</w> <w pws="yes" c="w" id="w3617">organization</w> <w pws="yes" c="w" id="w3630">indicated</w> <w pws="yes" c="br" id="w3640">(</w><w c="w" pws="no" id="w3641">phone</w><w c="cm" pws="no" id="w3646">,</w> <w pws="yes" c="w" id="w3648">email</w> <w pws="yes" c="w" id="w3654">address</w><w c="br" pws="no" id="w3661">)</w></s></p>
+</div>
+</div>
+<p font-size="10pt" font-name="Arial"><w pws="yes" c="." id="w3665">.</w> </p>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="table">
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Arial" font-weight="bold"><s><w pws="yes" c="w" id="w3670">Qualification</w> <w pws="yes" c="w" id="w3684">requirements</w><w c="cm" pws="no" id="w3696">,</w> <w pws="yes" c="w" id="w3698">continued</w></s></p>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p font-size="10pt" font-name="Arial"><s><w pws="yes" c="cd" id="w3713">7</w><w c="." sb="true" pws="no" id="w3714">.</w></s> <s><w pws="yes" c="w" id="w3716">You</w> <w pws="yes" c="w" id="w3720">must</w> <w pws="yes" c="w" id="w3725">have</w> <w pws="yes" c="w" id="w3730">at</w> <w pws="yes" c="w" id="w3733">least</w> <w pws="yes" c="cd" id="w3739">500</w> <w pws="yes" c="w" id="w3743">hours</w> <w pws="yes" c="w" id="w3749">of</w> <w pws="yes" c="w" id="w3752">experience</w> <w pws="yes" c="w" id="w3763">providing</w> <w pws="yes" c="w" id="w3773">classroom</w> <w pws="yes" c="w" id="w3783">instruction</w> <w pws="yes" c="w" id="w3795">in</w> <w pws="yes" c="w" id="w3798">an</w> <w pws="yes" c="w" id="w3801">engineering</w> <w pws="yes" c="w" id="w3813">or</w> <w pws="yes" c="w" id="w3816">technical</w> <w pws="yes" c="w" id="w3826">discipline</w><w c="." sb="true" pws="no" id="w3836">.</w></s> <s><w pws="yes" c="w" id="w3838">Please</w> <w pws="yes" c="w" id="w3845">list</w> <w pws="yes" c="w" id="w3850">the</w> <w pws="yes" c="w" id="w3854">relevant</w> <w pws="yes" c="w" id="w3863">information</w> <w pws="yes" c="w" id="w3875">that</w> <w pws="yes" c="w" id="w3880">describes</w> <w pws="yes" c="w" id="w3890">your</w> <w pws="yes" c="w" id="w3895">training</w> <w pws="yes" c="w" id="w3904">experience</w> <w pws="yes" c="w" id="w3915">in</w> <w pws="yes" c="w" id="w3918">the</w> <w pws="yes" c="w" id="w3922">table</w> <w pws="yes" c="w" id="w3928">below</w><w c="." sb="true" pws="no" id="w3933">.</w></s> <s><w pws="yes" c="w" id="w3935">In</w> <w pws="yes" c="w" id="w3938">the</w> <w pws="yes" c="w" id="w3942">reference</w> <w pws="yes" c="w" id="w3952">columns</w><w c="cm" pws="no" id="w3959">,</w> <w pws="yes" c="w" id="w3961">please</w> <w pws="yes" c="w" id="w3968">list</w> <w pws="yes" c="w" id="w3973">the</w> <w pws="yes" c="w" id="w3977">manager</w> <w pws="yes" c="w" id="w3985">or</w> <w pws="yes" c="w" id="w3988">client</w> <w pws="yes" c="w" id="w3995">who</w> <w pws="yes" c="w" id="w3999">can</w> <w pws="yes" c="w" id="w4003">corroborate</w> <w pws="yes" c="w" id="w4015">this</w> <w pws="yes" c="w" id="w4020">information</w><w c="." sb="true" pws="no" id="w4031">.</w></s></p>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="table">
+
+
+
+
+
+
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w4050">References</w></s></p>
+</div>
+
+
+</div>
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Arial"><s><w pws="yes" c="w" id="w4065">Start</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Arial"><s><w pws="yes" c="w" id="w4072">Finish</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Arial"><s><w pws="yes" c="w" id="w4080">Course</w> <w pws="yes" c="w" id="w4087">Name</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Arial"><s><w pws="yes" c="sym" id="w4093">#</w> <w pws="yes" c="w" id="w4095">Training</w> <w pws="yes" c="w" id="w4104">Hours</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Arial"><s><w pws="yes" c="w" id="w4111">Name</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Arial"><s><w pws="yes" c="w" id="w4117">Phone</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Arial"><s><w pws="yes" c="w" id="w4124">Email</w></s></p>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="9pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="table">
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Arial" font-weight="bold"><s><w pws="yes" c="w" id="w4345">Qualification</w> <w pws="yes" c="w" id="w4359">requirements</w><w c="cm" pws="no" id="w4371">,</w> <w pws="yes" c="w" id="w4373">continued</w></s></p>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p font-size="10pt" font-name="Arial"><s><w pws="yes" c="cd" id="w4388">8</w><w c="." sb="true" pws="no" id="w4389">.</w></s> <s><w pws="yes" c="w" id="w4391">You</w> <w pws="yes" c="w" id="w4395">must</w> <w pws="yes" c="w" id="w4400">have</w> <w pws="yes" c="w" id="w4405">experience</w> <w pws="yes" c="w" id="w4416">as</w> <w pws="yes" c="w" id="w4419">a</w> <w pws="yes" c="w" id="w4421">presenter</w> <w pws="yes" c="w" id="w4431">of</w> <w pws="yes" c="w" id="w4434">at</w> <w pws="yes" c="w" id="w4437">least</w> <w pws="yes" c="w" id="w4443">one</w> <w pws="yes" c="w" id="w4447">presentation</w> <w pws="yes" c="w" id="w4460">or</w> <w pws="yes" c="w" id="w4463">technical</w> <w pws="yes" c="w" id="w4473">paper</w> <w pws="yes" c="w" id="w4479">at</w> <w pws="yes" c="w" id="w4482">a</w> <w pws="yes" c="w" id="w4484">measurement</w> <w pws="yes" c="w" id="w4496">related</w> <w pws="yes" c="w" id="w4504">conference</w> <w pws="yes" c="w" id="w4515">within</w> <w pws="yes" c="w" id="w4522">the</w> <w pws="yes" c="w" id="w4526">last</w> <w pws="yes" c="cd" id="w4531">2</w> <w pws="yes" c="w" id="w4533">years</w><w c="." sb="true" pws="no" id="w4538">.</w></s>  <s><w pws="yes" c="w" id="w4541">Provide</w> <w pws="yes" c="w" id="w4549">the</w> <w pws="yes" c="w" id="w4553">following</w> <w pws="yes" c="w" id="w4563">information</w> <w pws="yes" c="w" id="w4575">regarding</w> <w pws="yes" c="w" id="w4585">your</w> <w pws="yes" c="w" id="w4590">most</w> <w pws="yes" c="w" id="w4595">recent</w> <w pws="yes" c="w" id="w4602">presentation</w> <w pws="yes" c="w" id="w4615">experience</w><w c="cm" pws="no" id="w4625">:</w></s></p>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p font-size="10pt" font-name="Arial"><div type="table">
+
+
+
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w4632">Presentation</w> <w pws="yes" c="w" id="w4645">Name</w></s></p>
+</div>
+
+
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w4653">Presentation</w> <w pws="yes" c="w" id="w4666">Date</w></s></p>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w4673">Conference</w> <w pws="yes" c="w" id="w4684">Name</w></s></p>
+</div>
+
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w4691">Conference</w> <w pws="yes" c="w" id="w4702">Location</w></s></p>
+</div>
+
+</div>
+<div type="table-row"><div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w4714">Conference</w> <w pws="yes" c="w" id="w4725">Chair</w> <w pws="yes" c="w" id="w4731">or</w> <w pws="yes" c="w" id="w4734">Point</w> <w pws="yes" c="w" id="w4740">of</w> <w pws="yes" c="w" id="w4743">Contact</w> <w pws="yes" c="br" id="w4751">(</w><w c="w" pws="no" id="w4752">POC</w><w c="br" pws="no" id="w4755">)</w> <w pws="yes" c="w" id="w4757">Name</w></s></p>
+</div>
+<div type="table-cell"><p font-size="9pt" font-name="Tw Cen MT"><s><w pws="yes" c="w" id="w4763">Chair</w><w c="slash" pws="no" id="w4768">/</w><w c="w" pws="no" id="w4769">POC</w> <w pws="yes" c="w" id="w4773">Phone</w> <w pws="yes" c="w" id="w4779">Number</w> <w pws="yes" c="w" id="w4786">or</w> <w pws="yes" c="w" id="w4789">Email</w> <w pws="yes" c="w" id="w4795">Address</w></s></p>
+</div>
+
+
+</div>
+</div>
+</p>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p font-size="10pt" font-name="Arial"><div type="table">
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Arial" font-weight="bold"><s><w pws="yes" c="w" id="w4813">Statement</w> <w pws="yes" c="w" id="w4823">of</w> <w pws="yes" c="w" id="w4826">Accuracy</w></s></p>
+</div>
+</div>
+</div>
+</p>
+<p para="empty" font-size="10pt" font-name="Arial" font-weight="bold"/>
+<p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w4840">I</w> <w pws="yes" c="w" id="w4842">certify</w> <w pws="yes" c="w" id="w4850">that</w> <w pws="yes" c="w" id="w4855">all</w> <w pws="yes" c="w" id="w4859">of</w> <w pws="yes" c="w" id="w4862">the</w> <w pws="yes" c="w" id="w4866">information</w> <w pws="yes" c="w" id="w4878">included</w> <w pws="yes" c="w" id="w4887">in</w> <w pws="yes" c="w" id="w4890">my</w> <w pws="yes" c="w" id="w4893">application</w> <w pws="yes" c="w" id="w4905">packet</w> <w pws="yes" c="w" id="w4912">is</w> <w pws="yes" c="w" id="w4915">true</w><w c="cm" pws="no" id="w4919">,</w> <w pws="yes" c="w" id="w4921">complete</w><w c="cm" pws="no" id="w4929">,</w> <w pws="yes" c="w" id="w4931">and</w> <w pws="yes" c="w" id="w4935">accurate</w><w c="." sb="true" pws="no" id="w4943">.</w></s> <s><w pws="yes" c="w" id="w4945">I</w> <w pws="yes" c="w" id="w4947">understand</w> <w pws="yes" c="w" id="w4958">that</w> <w pws="yes" c="w" id="w4963">all</w> <w pws="yes" c="w" id="w4967">components</w> <w pws="yes" c="w" id="w4978">of</w> <w pws="yes" c="w" id="w4981">my</w> <w pws="yes" c="w" id="w4984">application</w> <w pws="yes" c="w" id="w4996">packet</w> <w pws="yes" c="w" id="w5003">are</w> <w pws="yes" c="w" id="w5007">subject</w> <w pws="yes" c="w" id="w5015">to</w> <w pws="yes" c="w" id="w5018">verification</w><w c="cm" pws="no" id="w5030">,</w> <w pws="yes" c="w" id="w5032">and</w> <w pws="yes" c="w" id="w5036">I</w> <w pws="yes" c="w" id="w5038">give</w> <w pws="yes" c="w" id="w5043">my</w> <w pws="yes" c="w" id="w5046">permission</w> <w pws="yes" c="w" id="w5057">for</w> <w pws="yes" c="w" id="w5061">any</w> <w pws="yes" c="w" id="w5065">person</w> <w pws="yes" c="w" id="w5072">or</w> <w pws="yes" c="w" id="w5075">entity</w> <w pws="yes" c="w" id="w5082">to</w> <w pws="yes" c="w" id="w5085">provide</w> <w pws="yes" c="w" id="w5093">Carnegie</w> <w pws="yes" c="w" id="w5102">Mellon</w> <w pws="yes" c="w" id="w5109">with</w> <w pws="yes" c="w" id="w5114">information</w> <w pws="yes" c="w" id="w5126">relevant</w> <w pws="yes" c="w" id="w5135">to</w> <w pws="yes" c="w" id="w5138">such</w> <w pws="yes" c="w" id="w5143">verification</w><w c="." sb="true" pws="no" id="w5155">.</w></s> <s><w pws="yes" c="w" id="w5157">I</w> <w pws="yes" c="w" id="w5159">understand</w> <w pws="yes" c="w" id="w5170">that</w> <w pws="yes" c="w" id="w5175">all</w> <w pws="yes" c="w" id="w5179">components</w> <w pws="yes" c="w" id="w5190">of</w> <w pws="yes" c="w" id="w5193">my</w> <w pws="yes" c="w" id="w5196">verification</w> <w pws="yes" c="w" id="w5209">packet</w> <w pws="yes" c="w" id="w5216">become</w> <w pws="yes" c="w" id="w5223">the</w> <w pws="yes" c="w" id="w5227">property</w> <w pws="yes" c="w" id="w5236">of</w> <w pws="yes" c="w" id="w5239">the</w> <w pws="yes" c="w" id="w5243">Software</w> <w pws="yes" c="w" id="w5252">Engineering</w> <w pws="yes" c="w" id="w5264">Institute</w> <w pws="yes" c="w" id="w5274">and</w> <w pws="yes" c="w" id="w5278">that</w> <w pws="yes" c="w" id="w5283">they</w> <w pws="yes" c="w" id="w5288">will</w> <w pws="yes" c="w" id="w5293">not</w> <w pws="yes" c="w" id="w5297">be</w> <w pws="yes" c="w" id="w5300">returned</w> <w pws="yes" c="w" id="w5309">to</w> <w pws="yes" c="w" id="w5312">me</w> <w pws="yes" c="w" id="w5315">or</w> <w pws="yes" c="w" id="w5318">duplicated</w> <w pws="yes" c="w" id="w5329">for</w> <w pws="yes" c="w" id="w5333">me</w><w c="." sb="true" pws="no" id="w5335">.</w></s></p>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="table">
+
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w5341">Signature</w></s></p>
+</div>
+<div type="table-cell"><p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w5352">Date</w></s></p>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial" font-weight="bold"/>
+<p para="empty" font-size="10pt" font-name="Arial" font-weight="bold"/>
+<p para="empty" font-size="10pt" font-name="Arial" font-weight="bold"/>
+<p para="empty" font-size="10pt" font-name="Arial" font-weight="bold"/>
+<p para="empty" font-size="10pt" font-name="Arial" font-weight="bold"/>
+<div type="table">
+
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w5367">Direct</w> <w pws="yes" c="w" id="w5374">any</w> <w pws="yes" c="w" id="w5378">questions</w> <w pws="yes" c="w" id="w5388">regarding</w> <w pws="yes" c="w" id="w5398">this</w> <w pws="yes" c="w" id="w5403">application</w> <w pws="yes" c="w" id="w5415">to</w><w c="cm" pws="no" id="w5417">:</w></s> </p>
+<p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w5420">SEI</w> <w pws="yes" c="w" id="w5424">Customer</w> <w pws="yes" c="w" id="w5433">Relations</w></s></p>
+<p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w5443">Software</w> <w pws="yes" c="w" id="w5452">Engineering</w> <w pws="yes" c="w" id="w5464">Institute</w>
+<w pws="yes" c="w" id="w5474">Carnegie</w> <w pws="yes" c="w" id="w5483">Mellon</w> <w pws="yes" c="w" id="w5490">University</w>
+<w pws="yes" c="w" id="w5501">Pittsburgh</w><w c="cm" pws="no" id="w5511">,</w> <w pws="yes" c="w" id="w5513">PA</w> <w pws="yes" c="w" id="w5516">15213-3890</w>
+<w pws="yes" c="w" id="w5527">Phone</w><w c="cm" pws="no" id="w5532">:</w> <w pws="yes" c="w" id="w5534">412-268-5800</w>
+<w pws="yes" c="w" id="w5547">FAX</w><w c="cm" pws="no" id="w5550">:</w> <w pws="yes" c="w" id="w5552">412-268-5758</w>
+<w pws="yes" c="w" id="w5565">Email</w><w c="cm" pws="no" id="w5570">:</w> <w c="email" id="w5572">customer-relations@sei.cmu.edu</w></s></p>
+</div>
+<div type="table-cell"><p font-size="10pt" font-name="Arial" font-weight="bold"><s><w pws="yes" c="w" id="w5604">Mail</w> <w pws="yes" c="w" id="w5609">this</w> <w pws="yes" c="w" id="w5614">form</w> <w pws="yes" c="w" id="w5619">to</w> <w pws="yes" c="w" id="w5622">the</w> <w pws="yes" c="w" id="w5626">following</w> <w pws="yes" c="w" id="w5636">address</w><w c="cm" pws="no" id="w5643">:</w></s></p>
+<p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w5645">Software</w> <w pws="yes" c="w" id="w5654">Engineering</w> <w pws="yes" c="w" id="w5666">Institute</w></s></p>
+<p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w5676">Carnegie</w> <w pws="yes" c="w" id="w5685">Mellon</w> <w pws="yes" c="w" id="w5692">University</w></s></p>
+<p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w5703">Attn</w><w c="cm" pws="no" id="w5707">:</w> <w pws="yes" c="w" id="w5709">SEMA</w> <w pws="yes" c="w" id="w5714">Program</w></s></p>
+<p font-size="10pt" font-name="Arial"><s><w pws="yes" c="cd" id="w5722">4500</w> <w pws="yes" c="w" id="w5727">Fifth</w> <w pws="yes" c="w" id="w5733">Avenue</w></s></p>
+<p font-size="10pt" font-name="Arial"><s><w pws="yes" c="w" id="w5740">Pittsburgh</w><w c="cm" pws="no" id="w5750">,</w> <w pws="yes" c="w" id="w5752">PA</w> <w pws="yes" c="w" id="w5755">15213-3890</w></s></p>
+<p para="empty" font-size="10pt" font-name="Helvetica"/>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p para="empty" font-size="10pt" font-name="Arial" font-weight="bold"/>
+<p para="empty" font-size="10pt" font-name="Arial" font-weight="bold"/>
+<p font-size="10pt" font-name="Arial"><div type="table">
+<div type="table-row"><div type="table-cell"><p para="empty" font-size="8pt" font-name="TimesNewRomanPSMT"/>
+<p font-size="8pt" font-name="TimesNewRomanPSMT"><s><w pws="yes" c="w" id="w5775">Carnegie</w> <w pws="yes" c="w" id="w5784">Mellon</w> <w pws="yes" c="w" id="w5791">University</w> <w pws="yes" c="w" id="w5802">does</w> <w pws="yes" c="w" id="w5807">not</w> <w pws="yes" c="w" id="w5811">discriminate</w> <w pws="yes" c="w" id="w5824">and</w> <w pws="yes" c="w" id="w5828">Carnegie</w> <w pws="yes" c="w" id="w5837">Mellon</w> <w pws="yes" c="w" id="w5844">University</w> <w pws="yes" c="w" id="w5855">is</w> <w pws="yes" c="w" id="w5858">required</w> <w pws="yes" c="w" id="w5867">not</w> <w pws="yes" c="w" id="w5871">to</w> <w pws="yes" c="w" id="w5874">discriminate</w> <w pws="yes" c="w" id="w5887">in</w> <w pws="yes" c="w" id="w5890">admission</w><w c="cm" pws="no" id="w5899">,</w> <w pws="yes" c="w" id="w5901">employment</w><w c="cm" pws="no" id="w5911">,</w> <w pws="yes" c="w" id="w5913">or</w> <w pws="yes" c="w" id="w5916">administration</w> <w pws="yes" c="w" id="w5931">of</w> <w pws="yes" c="w" id="w5934">its</w> <w pws="yes" c="w" id="w5938">programs</w> <w pws="yes" c="w" id="w5947">or</w> <w pws="yes" c="w" id="w5950">activities</w> <w pws="yes" c="w" id="w5961">on</w> <w pws="yes" c="w" id="w5964">the</w> <w pws="yes" c="w" id="w5968">basis</w> <w pws="yes" c="w" id="w5974">of</w> <w pws="yes" c="w" id="w5977">race</w><w c="cm" pws="no" id="w5981">,</w> <w pws="yes" c="w" id="w5983">color</w><w c="cm" pws="no" id="w5988">,</w> <w pws="yes" c="w" id="w5990">national</w> <w pws="yes" c="w" id="w5999">origin</w><w c="cm" pws="no" id="w6005">,</w> <w pws="yes" c="w" id="w6007">sex</w> <w pws="yes" c="w" id="w6011">or</w> <w pws="yes" c="w" id="w6014">handicap</w> <w pws="yes" c="w" id="w6023">in</w> <w pws="yes" c="w" id="w6026">violation</w> <w pws="yes" c="w" id="w6036">of</w> <w pws="yes" c="w" id="w6039">Title</w> <w pws="yes" c="w" id="w6045">VI</w> <w pws="yes" c="w" id="w6048">of</w> <w pws="yes" c="w" id="w6051">the</w> <w pws="yes" c="w" id="w6055">Civil</w> <w pws="yes" c="w" id="w6061">Rights</w> <w pws="yes" c="w" id="w6068">Act</w> <w pws="yes" c="w" id="w6072">of</w> <w pws="yes" c="cd" id="w6075">1964</w><w c="cm" pws="no" id="w6079">,</w> <w pws="yes" c="w" id="w6081">Title</w> <w pws="yes" c="w" id="w6087">IX</w> <w pws="yes" c="w" id="w6090">of</w> <w pws="yes" c="w" id="w6093">the</w> <w pws="yes" c="w" id="w6097">Educational</w> <w pws="yes" c="w" id="w6109">Amendments</w> <w pws="yes" c="w" id="w6120">of</w> <w pws="yes" c="cd" id="w6123">1972</w> <w pws="yes" c="w" id="w6128">and</w> <w pws="yes" c="w" id="w6132">Section</w> <w pws="yes" c="cd" id="w6140">504</w> <w pws="yes" c="w" id="w6144">of</w> <w pws="yes" c="w" id="w6147">the</w> <w pws="yes" c="w" id="w6151">Rehabilitation</w> <w pws="yes" c="w" id="w6166">Act</w> <w pws="yes" c="w" id="w6170">of</w> <w pws="yes" c="cd" id="w6173">1973</w> <w pws="yes" c="w" id="w6178">or</w> <w pws="yes" c="w" id="w6181">other</w> <w pws="yes" c="w" id="w6187">Federal</w><w c="cm" pws="no" id="w6194">,</w> <w pws="yes" c="w" id="w6196">state</w><w c="cm" pws="no" id="w6201">,</w> <w pws="yes" c="w" id="w6203">or</w> <w pws="yes" c="w" id="w6206">local</w> <w pws="yes" c="w" id="w6212">laws</w> <w pws="yes" c="w" id="w6217">or</w> <w pws="yes" c="w" id="w6220">executive</w> <w pws="yes" c="w" id="w6230">orders</w><w c="." sb="true" pws="no" id="w6236">.</w></s> <s><w pws="yes" c="w" id="w6238">In</w> <w pws="yes" c="w" id="w6241">addition</w><w c="cm" pws="no" id="w6249">,</w> <w pws="yes" c="w" id="w6251">Carnegie</w> <w pws="yes" c="w" id="w6260">Mellon</w> <w pws="yes" c="w" id="w6267">University</w> <w pws="yes" c="w" id="w6278">does</w> <w pws="yes" c="w" id="w6283">not</w> <w pws="yes" c="w" id="w6287">discriminate</w> <w pws="yes" c="w" id="w6300">in</w> <w pws="yes" c="w" id="w6303">admission</w><w c="cm" pws="no" id="w6312">,</w> <w pws="yes" c="w" id="w6314">employment</w><w c="cm" pws="no" id="w6324">,</w> <w pws="yes" c="w" id="w6326">or</w> <w pws="yes" c="w" id="w6329">administration</w> <w pws="yes" c="w" id="w6344">of</w> <w pws="yes" c="w" id="w6347">its</w> <w pws="yes" c="w" id="w6351">programs</w> <w pws="yes" c="w" id="w6360">on</w> <w pws="yes" c="w" id="w6363">the</w> <w pws="yes" c="w" id="w6367">basis</w> <w pws="yes" c="w" id="w6373">of</w> <w pws="yes" c="w" id="w6376">religion</w><w c="cm" pws="no" id="w6384">,</w> <w pws="yes" c="w" id="w6386">creed</w><w c="cm" pws="no" id="w6391">,</w> <w pws="yes" c="w" id="w6393">ancestry</w><w c="cm" pws="no" id="w6401">,</w> <w pws="yes" c="w" id="w6403">belief</w><w c="cm" pws="no" id="w6409">,</w> <w pws="yes" c="w" id="w6411">age</w><w c="cm" pws="no" id="w6414">,</w> <w pws="yes" c="w" id="w6416">veteran</w> <w pws="yes" c="w" id="w6424">status</w><w c="cm" pws="no" id="w6430">,</w> <w pws="yes" c="w" id="w6432">sexual</w> <w pws="yes" c="w" id="w6439">orientation</w> <w pws="yes" c="w" id="w6451">or</w> <w pws="yes" c="w" id="w6454">in</w> <w pws="yes" c="w" id="w6457">violation</w> <w pws="yes" c="w" id="w6467">of</w> <w pws="yes" c="w" id="w6470">Federal</w><w c="cm" pws="no" id="w6477">,</w> <w pws="yes" c="w" id="w6479">state</w> <w pws="yes" c="w" id="w6485">or</w> <w pws="yes" c="w" id="w6488">local</w> <w pws="yes" c="w" id="w6494">laws</w> <w pws="yes" c="w" id="w6499">or</w> <w pws="yes" c="w" id="w6502">executive</w> <w pws="yes" c="w" id="w6512">orders</w><w c="." sb="true" pws="no" id="w6518">.</w></s></p>
+</div>
+</div>
+</div>
+</p>
+</text><standoff/></document>

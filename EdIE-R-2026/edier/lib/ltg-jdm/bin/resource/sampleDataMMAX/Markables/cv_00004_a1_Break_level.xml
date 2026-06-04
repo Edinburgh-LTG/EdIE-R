@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE markables SYSTEM "./src/resource/markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/Break">
+<markable id="markable_4" span="word_1299" mmax_level="break" />
+<markable id="markable_3" span="word_657" mmax_level="break" />
+<markable id="markable_2" span="word_334" mmax_level="break" />
+<markable id="markable_1" span="word_17" mmax_level="break" />
+</markables>

@@ -1,0 +1,127 @@
+Overview
+--------
+
+It is standard practice to evaluate system performance by comparing
+system output to a manually prepared test set. We do not supply this
+here, but the use of our evaluation tools can be outlined by treating
+data/output/synthetic.xml as both system output and as test data: by
+comparing it with itself we expect the evaluation tools to report 100%
+agreement for all annotations. The results of this self-comparison can
+be found in data/eval/. N.B. users may wish to run their own systems
+on their own data and may have their own preferred data formats and
+scoring methods, e.g. CONLL format and scoring.
+
+Here we provide the means to score EdIE-R output against gold
+annotations in the same format using our own scoring software. This
+compares entities and relations and reports results in terms of true
+positives, false positives and false negatives, which are used to
+calculate precision, recall and F1. (NB evaluation of document level
+labels, i.e. phenotypes, is treated as a kind of entity evaluation.)
+
+To run the scoring software, a directory must be created which will
+contain a subdirectory named gold and a subdirectory named sys,
+e.g. for scoring entities and relations:
+
+data/eval/entsrels
+data/eval/entsrels/gold/
+data/eval/entsrels/sys/
+
+and for labels:
+
+data/eval/labels
+data/eval/labels/gold/
+data/eval/labels/sys/
+
+The scorer software copies -ann.xml files from relevant brat
+directories into gold/ and sys/ (which it will create if they do not
+already exist) and performs pairwise comparisons which are summarised
+in results.html (for display in a browser) and results.csv, a
+simplified version of results.html.
+
+
+Evaluation of entities and relations
+------------------------------------
+
+First we created the necessary directory for evaluation of entities
+and relations per health board:
+
+cd edier/scripts
+
+mkdir ../../data/eval/entsrels
+
+Then we ran the script eval-entsrels using the -ann.xml files we had
+already created in the conversion to brat format as both gold and
+sys. (In a real case, the gold files would need to be converted to
+their own brat directory to provide gold -ann.xml files.)
+
+./eval-entsrels -g ../../data/output/brat -s ../../data/output/brat -e ../../data/eval/entsrels
+
+Here the -g option specifies where to find the gold files, the -s
+option specifies where to find the system files and -e provides the
+name of the evaluation directory. The script takes the gold or sys
+-ann.xml files and removes mark-up of labels (which are not to be
+scored along with entities and relations) and writes the modified
+files to gold/ and sys/. It then runs the script score-ltg over the
+files and produces detailed pairwise comparison files
+(e.g. 0001-ann.xml-0001-ann.xml-NER and 0001-ann.xml-0001-ann.xml-RE)
+in the specified evaluation directory. These comparison files list all
+the true positives, false positives and false negatives which are
+summarised in results.html and result.csv. The results give details of
+results per entity type and per relation type. There are two TOTAL
+lines in results.csv files, the first for the total results for
+entities and the second for relations:
+
+TOTAL,41,41,0,0,100.00,100.00,100.00
+TOTAL,6,6,0,0,100.00,100.00,100.00
+
+The final three columns of each of line contain precision, recall and
+F1 scores. (Since we are scoring the system output against itself,
+agreement is 100 across the board.)
+
+(NB the eval-entsrels script removes negation information from
+entities so it does not give a complete comparison of system vs
+gold. It is possible to create other evaluation scripts where just
+negation is compared or where negation is folded into entity type,
+e.g. instead of just atrophy there would be atrophy_neg and
+atrophy_pos).
+
+
+Evaluation of labels (phenotypes)
+---------------------------------
+
+First we created the necessary directory for evaluation of labels:
+
+cd edier/scripts
+
+mkdir ../../data/eval/labels
+
+Then we ran the script eval-labels using the -ann.xml files we had
+already created in the conversion to brat format as both gold and
+sys. (Again, in a real case, the gold files would need to be converted
+to their own brat directory to provide gold -ann.xml files.)
+
+./eval-labels -g ../../data/output/brat -s ../../data/output/brat -e ../../data/eval/labels
+
+As with eval-entstrels, the -g option specifies where to find the gold
+files, the -s option specifies where to find the system files and -e
+provides the name of the evaluation directory. The script takes the
+gold or sys -ann.xml files and removes mark-up not relevant to label
+scoring (i.e. it removes entity and relation mark-up) and writes the
+modified files to gold/ and sys/. It then runs the script score-ltg
+over the files and produces pairwise comparison files,
+e.g. 0001-ann.xml-0001-ann.xml-NER and 0001-ann.xml-0001-ann.xml-RE,
+in the specified evaluation directory. Since relation mark-up has been
+removed, all the RE comparison files are essentially empty. The
+comparison files list all the true positives, false positives and
+false negatives which are summarised in results.html and
+result.csv. The results give details of results per label and
+(redundantly) per relation type. There are two TOTAL lines in
+results.csv files, the first for the total results for labels (which
+are treated as entities) and the second for relations:
+
+TOTAL,8,8,0,0,100.00,100.00,100.00
+TOTAL,0,0,0,0,NaN,NaN,NaN
+
+The final three columns of each of line contain precision, recall and
+F1 scores. (Since we are scoring the system output against itself,
+agreement is 100 across the board.)

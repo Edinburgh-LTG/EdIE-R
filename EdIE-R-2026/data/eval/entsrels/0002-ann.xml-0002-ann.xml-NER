@@ -1,0 +1,29 @@
+Detailed Scoring Comparison data for document: 0002-ann.xml
+
+FALSE POSITIVES
+===============
+
+FALSE NEGATIVES
+===============
+
+TRUE POSITIVES
+==============
+%TP [EntityFeature "subarachnoid blood" Type:'subarachnoid_haemorrhage' vs. 'subarachnoid_haemorrhage' (e19 1366,1384)]
+%TP [EntityFeature "subarachnoid blood" Type:'subarachnoid_haemorrhage' vs. 'subarachnoid_haemorrhage' (e26 1654,1672)]
+%TP [EntityFeature "haemorrhage" Type:'haemorrhagic_stroke' vs. 'haemorrhagic_stroke' (e24 1607,1618)]
+%TP [EntityFeature "chronic" Type:'time_old' vs. 'time_old' (e17 1304,1311)]
+%TP [EntityFeature "corona radiata" Type:'loc_deep' vs. 'loc_deep' (e12 1129,1143)]
+%TP [EntityFeature "centrum semi-ovale" Type:'loc_deep' vs. 'loc_deep' (e13 1159,1177)]
+%TP [EntityFeature "subdural collection" Type:'subdural_haematoma' vs. 'subdural_haematoma' (e18 1327,1346)]
+%TP [EntityFeature "extra-axial collections" Type:'subdural_haematoma' vs. 'subdural_haematoma' (e22 1443,1466)]
+%TP [EntityFeature "subdural haemorrhage" Type:'subdural_haematoma' vs. 'subdural_haematoma' (e27 1690,1710)]
+%TP [EntityFeature "white matter changes" Type:'small_vessel_disease' vs. 'small_vessel_disease' (e15 1236,1256)]
+%TP [EntityFeature "small vessel disease" Type:'small_vessel_disease' vs. 'small_vessel_disease' (e21 1418,1438)]
+%TP [EntityFeature "metastases" Type:'metast_tumour' vs. 'metast_tumour' (e28 1736,1746)]
+%TP [EntityFeature "frontal lobe" Type:'loc_cortical' vs. 'loc_cortical' (e11 1103,1115)]
+%TP [EntityFeature "frontal" Type:'loc_cortical' vs. 'loc_cortical' (e16 1282,1289)]
+%TP [EntityFeature "frontal" Type:'loc_cortical' vs. 'loc_cortical' (e20 1393,1400)]
+%TP [EntityFeature "frontal lobe" Type:'loc_cortical' vs. 'loc_cortical' (e25 1631,1643)]
+%TP [EntityFeature "new" Type:'time_recent' vs. 'time_recent' (e14 1191,1194)]
+%TP [EntityFeature "acute" Type:'time_recent' vs. 'time_recent' (e23 1601,1606)]
+

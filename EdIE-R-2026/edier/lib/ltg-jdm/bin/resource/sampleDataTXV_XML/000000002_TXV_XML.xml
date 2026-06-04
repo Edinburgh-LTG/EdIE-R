@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><document version="3">
+<meta><attr name="title">Resume</attr></meta>
+<text>
+<p font-size="27pt" font-name="Arial Black"><p font-size="10pt" font-name="Arial">3 Masakin El Rimaya  - El Haram - Giza  </p>
+<p font-size="10pt" font-name="Arial">E-mail: Hithamab@Hotmail.com</p>
+<p font-size="10pt" font-name="Arial">Phone: 012-2857519</p>
+<p para="empty" font-size="9pt" font-name="Arial"/>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+Hitham M. Abo Bakr</p>
+<div type="table">
+
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Arial" font-weight="bold">Objective</p>
+</div>
+<div type="table-cell"><p font-size="10pt" font-name="Arial">Computer science is my field of work. My aim is to work in an appropriate level in either computer system developing branch, or research and development branch.</p>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Arial" font-weight="bold">Professional Experience</p>
+</div>
+<div type="table-cell"><div type="list"><div type="list-item"><p font-size="10pt" font-name="Arial">21 Aug. 1999 – until now  Giza Systems Engineering  Cairo </p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Job Title: Technology Expert Developer</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Design and implementation the Text Analysis System for Arabic and English language  using Morphological system (MoRpH)  developed during preparing my Ph.D.  </p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Building Notification system for sending SMS using gateways, or via SMPP for Egypt Air flow.  </p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Worked in team to develop “FaxStudio” application. My role is design and implement for a Fax Server that deals with Dialogic cards for sending requested faxes using VC++ and ATL and DCOM technologies. Design and implement a Client-server Utility to monitor fax lines remotely using Sockets. </p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Worked in team to develop “@nywhere” application This application notifies Mail clients with Short Message Service (SMS) when receiving Email. Client can reply using another SMS or using IVR system. We develop this application using Visual C++. My role in the project was: Designing and implementing the NT service that manage sending and receiving the SMS messages from SMS gateway and sends it via Winsock to Clients that handle the Messages. Designing and implementing the Client Program that request the SMS, configuration Program for this project and monitor utility.</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Design a program to generate ring tones and logos for Nokia mobiles using smart messaging specifications and send it using SMS service.</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Worked in team to develop a customizable Interactive voice Response (IVR) system called “IVR Studio ”using visual c++ and the tapi library, 1999/2000. My role in the project was: Designing and implementing the graphical user interface, designing and implementing some of the core functions and designing and implementing the client monitor program and report generator program part in the project. </p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Design a video streaming system and design a homepage that gets the online video streams and a video on demand depending on a user privilege.  </p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Building homepage for Ministry of Education for “EL Thanawaya”, and “El Tanseek” for year 2000.</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">20 Aug. 1995 – 20 Aug. 1999  Saudisoft  Egypt Branch  Cairo.</p>
+</div>
+</div>
+<p font-size="10pt" font-name="Arial" font-weight="bold">Job Title: Senior Developer + Network Administrator in Saudisoft Co.</p>
+<div type="list"><div type="list-item"><p font-size="10pt" font-name="Arial">Network administrator for Saudisoft Co. (80 Users) Installing and configuring NT servers, Proxy, Exchange Server 5.5, and IIS 4.0. </p>
+</div>
+</div>
+<p font-size="10pt" font-name="Arial" font-weight="bold">Job Title : System Programmer </p>
+<div type="list"><div type="list-item"><p font-size="10pt" font-name="Arial">Putting a design and implementing it for Arabic text contextual analysis. I.e. doing the text layout and shaping. We used this engine in the developing the OTC line printer driver for Windows 95</p>
+</div>
+</div>
+<div type="list"><div type="list-item"><p font-size="10pt" font-name="Arial">Building device drivers for Windows 3.11 that driver is used in the “MDOS “project.</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Building virtual device drivers for Windows 95.</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Working in a many types of VxDs under Windows 95 and build the device drivers for "Waseet Saudisoft" project. In Waseet project we made the Arabization engine to the DOS and solve the problem of the printing in the Arabic Dos under Windows95.  Make a generic device driver that port the printed data from the Dos Applications to windows applications with correct format to the tables in the printed data.</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Building Arabic printer device derives for line printers under windows 95 </p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Writing an application that converts the captured printed data from the DOS and then converts that data to the RTF format.</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Develop an application that offer a security on the files and folders on a PC for the owner to the PC and hide it from other users (for DOS and Windows 95).</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Building virtual device drivers for windows NT 4.0.  Working mainly in VDD.</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Building API For Dos developers working with Dbase, C, Basic, Clipper, and Clarion.</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Building utilities used for generating Arabic Open True Type Fonts files.</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Adding Arabization module to BRS 32-bit Toolkit.  </p>
+</div>
+</div>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Arial" font-weight="bold">Additional Professional Activities</p>
+</div>
+<div type="table-cell"><div type="list"><div type="list-item"><p font-size="10pt" font-name="Arial">Building software protection, and Using hardware protection to protect projects.</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Debugging &amp; Back-engineering. Hooking Windows APIs. Install and configure Dialogic cards.</p>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Arial" font-weight="bold">Education</p>
+</div>
+<div type="table-cell"><div type="list"><div type="list-item"><p font-size="10pt" font-name="Arial">Preparing for Ph.D. “Building Algorithms and Databases for Arabic Linguistic Analysis”  </p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">2000- 2001  MCSD VC++</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">1996 - 1999  Cairo University – Faculty of Engineering.</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial"> Master's Degree of Engineering in Computer science.</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial"> M. Sc.  “Code Generation and Optimization for VLIW Machines”.</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">1990 – 1995. Faculty of Engineering.</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial"> B.Sc. of Engineering  in Electronics &amp; communication.</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial"> Degree: Very Good with honor degree  (83.03 %).</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial"> Degree of project: Excellent.</p>
+</div>
+</div>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Arial" font-weight="bold">Diploma Courses Studied</p>
+</div>
+<div type="table-cell"><div type="list"><div type="list-item"><p font-size="10pt" font-name="Arial">Parallel and Distributed Computer Architectures- Computer language and compiler – ATM - AI – Computer Simulation - Adv. Computer Graphics – Advanced Computer Networks – Neural Networks.</p>
+</div>
+</div>
+</div>
+</div>
+<div type="table-row"><div type="table-cell"><p font-size="10pt" font-name="Arial" font-weight="bold">Training  Courses</p>
+</div>
+<div type="table-cell"><p para="empty" font-size="10pt" font-name="Arial"/>
+<div type="list"><div type="list-item"><p font-size="10pt" font-name="Arial">Microsoft Certified Solution Developer Courses, Knowlodg  Nov. 2000 </p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">Digital Unix Administration &amp; Management , GSE  Oct.1999</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">WINDOWS NT Server 4.0, IBM Egypt (MCP)  Oct.1998</p>
+</div>
+<div type="list-item"><p font-size="10pt" font-name="Arial">OLE2, Microsoft  Jan.1996</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p para="empty" font-size="10pt" font-name="Arial"/>
+</text></document>

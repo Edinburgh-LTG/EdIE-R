@@ -1,0 +1,6 @@
+<annotationscheme>
+<attribute id="level_relation_args" name="args" type="markable_pointer" color="red" width="1" style="lcurve" point_to_markable_text="Mark as relation participant" remove_pointer_to_markable_text="Remove as relation participant">
+    <value id="value_relation_level_relation_args" name="not_set" />
+    <value id="value_relation_level_relation_args" name="set" />
+</attribute>
+</annotationscheme>

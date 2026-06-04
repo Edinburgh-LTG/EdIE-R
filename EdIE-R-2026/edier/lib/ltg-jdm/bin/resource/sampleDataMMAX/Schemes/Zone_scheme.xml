@@ -1,0 +1,11 @@
+<annotationscheme>
+  <attribute id="level_zone_type" name="zone_type" type="nominal_list" text="Select the zone type">
+    <value id="value_sortal_class_type_personal" name="personal" />
+    <value id="value_sortal_class_type_education" name="education" />
+    <value id="value_sortal_class_type_skills" name="skills" />
+    <value id="value_sortal_class_type_employment" name="employment" />
+    <value id="value_sortal_class_type_references" name="references" />
+    <value id="value_sortal_class_type_interests" name="summary" />
+    <value id="value_sortal_class_type_interests" name="other" />
+  </attribute>
+</annotationscheme>

@@ -1,0 +1,14 @@
+Detailed Scoring Comparison data for document: 0001-ann.xml
+
+FALSE POSITIVES
+===============
+
+FALSE NEGATIVES
+===============
+
+TRUE POSITIVES
+==============
+%TP [EntityFeature "select" Type:'label:Small vessel disease' vs. 'label:Small vessel disease' (l16 630,636)]
+%TP [EntityFeature "select" Type:'label:Atrophy' vs. 'label:Atrophy' (l17 649,655)]
+%TP [EntityFeature "select" Type:'label:Ischaemic stroke, cortical, recent' vs. 'label:Ischaemic stroke, cortical, recent' (l3 143,149)]
+

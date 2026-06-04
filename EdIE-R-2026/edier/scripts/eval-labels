@@ -1,0 +1,92 @@
+#!/bin/sh
+
+usage="eval-labels -g golddir -s sysdir -e evaldir"
+
+descr="Convert gold and sys files and put in gold and sys subdirs of evaldir. Run score-ltg to get evaluation results."
+
+. `dirname $0`/setup
+
+while [ $# -gt 0 ]; do
+  arg=$1
+  shift
+  case $arg in
+    -g)
+      gdir=$1
+      shift
+      ;;
+    -s)
+      sdir=$1
+      shift
+      ;;
+    -e)
+      edir=$1
+      shift
+      ;;
+    *)
+      echo "usage: $usage" >&2
+      exit 2
+  esac
+done
+
+if [ $# -ne -0 -o -z "$gdir" -o -z "$sdir" -o -z "$edir" ]; then
+  echo "usage: $usage" >&2
+  exit 2
+fi
+
+lib=$here/lib/annot
+
+if  [ ! -x "$edir" ]
+then
+    mkdir $edir
+fi
+
+if  [ ! -x "$edir/gold" ]
+then
+    mkdir $edir/gold
+fi
+
+if  [ ! -x "$edir/sys" ]
+then
+    mkdir $edir/sys
+fi
+
+
+for f in $gdir/*-ann.xml
+do 
+
+fname=`basename $f`
+
+cat $f |
+lxreplace -q "ents" -t "<ents source='gold'>&children;</ents>" |
+lxt -s $lib/inlinelabel.xsl |
+lxreplace -q "ent[not(@type~'^label:')]" -t "" |
+lxreplace -q "relation" -t "" > $edir/gold/$fname 
+
+done
+
+for f in $edir/gold/*-ann.xml 
+do 
+
+fname=`basename $f`
+
+cat $sdir/$fname |
+lxreplace -q "ents" -t "<ents source='ner-rb'>&children;</ents>" |
+lxt -s $lib/inlinelabel.xsl |
+lxreplace -q "ent[not(@type~'^label:')]" -t "" |
+lxreplace -q "relation" -t "" > $edir/sys/$fname 
+
+done
+
+$here/scripts/score-ltg -g $edir/gold -s $edir/sys -d $edir -h > $edir/results.html
+
+cat $edir/results.html |
+sed -r 's/(<(TR|H2)>)/\n\1/g' |
+sed -r 's/(<TD>[0-9]+),([0-9]+<\/TD>)/\1\2/g' |
+sed -r 's/<T[HD]>([^<>]+)<\/T[HD]>/,\1/g' |
+sed -r 's/<\/?[A-Z2]+>,?//g' |
+egrep ',|Summary' |
+sed -r 's/^(Relation)/\n\1/' >$edir/results.csv
+
+#rm -rf $edir/gold $edir/sys
+
+

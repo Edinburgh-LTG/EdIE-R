@@ -1,0 +1,26 @@
+Te11	loc_cortical 1103 1115	frontal lobe
+Te12	loc_deep 1129 1143	corona radiata
+Te13	loc_deep 1159 1177	centrum semi-ovale
+Te14	time_recent 1191 1194	new
+Te15	small_vessel_disease 1236 1256	white matter changes
+Te16	loc_cortical 1282 1289	frontal
+Te17	time_old 1304 1311	chronic
+Te18	subdural_haematoma 1327 1346	subdural collection
+Te19	subarachnoid_haemorrhage 1366 1384	subarachnoid blood
+Te20	loc_cortical 1393 1400	frontal
+Te21	small_vessel_disease 1418 1438	small vessel disease
+Te22	subdural_haematoma 1443 1466	extra-axial collections
+Te23	time_recent 1601 1606	acute
+Te24	haemorrhagic_stroke 1607 1618	haemorrhage
+Te25	loc_cortical 1631 1643	frontal lobe
+Te26	subarachnoid_haemorrhage 1654 1672	subarachnoid blood
+Te27	subdural_haematoma 1690 1710	subdural haemorrhage
+Te28	metast_tumour 1736 1746	metastases
+Tl8	label_yes 363 369	select
+Tl16	label_yes 630 636	select
+Tl18	label_yes 679 685	select
+Tl20	label_yes 770 776	select
+Rr4	mod-loc Arg1:Te24 Arg2:Te25
+Rr5	mod-time Arg1:Te24 Arg2:Te23
+A1	negated Te22
+A2	negated Te28

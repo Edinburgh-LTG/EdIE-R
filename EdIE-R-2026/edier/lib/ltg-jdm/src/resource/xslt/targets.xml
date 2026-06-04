@@ -1,0 +1,37 @@
+<!-- targets for each component for milestone 4 -->
+<components>
+  <component name="NER" target="85">
+    <subcomponent name="CellLine"/>
+    <subcomponent name="Complex"/>
+    <subcomponent name="DrugCompound"/>
+    <subcomponent name="ExperimentalMethod"/>
+    <subcomponent name="Fragment"/>
+    <subcomponent name="Fusion"/>
+    <subcomponent name="Modification"/>
+    <subcomponent name="Mutant"/>
+    <subcomponent name="Protein"/>
+  </component>
+  <component name="Species" target="0"/>
+  <component name="TI" target="80"/>
+  <component name="RE" target="0">
+    <subcomponent name="ppi" target="80"/>
+    <subcomponent name="frag" target="60"/>
+  </component>
+  <component name="RelAttribute" target="60">
+    <subcomponent name="CellLineEntity"/>
+    <subcomponent name="DrugTreatmentEntity"/>
+    <subcomponent name="ExperimentalMethodEntity"/>
+    <subcomponent name="MethodEntity"/>
+    <subcomponent name="ModificationAfterEntity"/>
+    <subcomponent name="ModificationBeforeEntity"/>
+  </component>
+  <component name="RelProperty" target="60">
+    <subcomponent name="Direct"/>
+    <subcomponent name="NotDirect"/>
+    <subcomponent name="Proven"/>
+    <subcomponent name="Referenced"/>
+    <subcomponent name="Unspecified"/>
+    <subcomponent name="Positive"/>
+    <subcomponent name="Negative"/>
+  </component>
+</components>

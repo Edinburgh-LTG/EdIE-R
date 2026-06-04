@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+    <meta>
+        <attr name="DocId">pmc_60996</attr>
+        <attr name="Comments"/>
+        <attr name="CommentAnnotationDifficulty"/>
+        <attr name="CommentAnnotatorFamiliarWithContent"/>
+        <attr name="CommentAnnotationMinutes">0</attr>
+        <attr name="LastModifiedDate">2006-10-04</attr>
+        <attr name="Annotator">landerso</attr>
+    </meta>
+    <text>
+        <div type="title">
+            <p>
+                <s>
+                    <w id="w0" c="w">Reconstitution</w>
+                    <w id="w1" c="w">of</w>
+                    <w id="w2" c="w">licensed</w>
+                </s>
+            </p>
+        </div>
+    </text>
+    <standoff>
+        <ents source="gold">
+            <ent id="e0" type="Protein" norm="NP 004517 (gen)" conf="100" species="human">
+            	<parts>
+            		<part sw="w0" ew="w0">Reconstitution</part>
+            	</parts>
+			</ent>
+            <ent id="e1" type="Protein" norm="NP 27 (gen)" conf="80" species="mouse">
+            	<parts>
+            		<part sw="w1" ew="w1">of</part>
+            	</parts>
+            </ent>
+            <ent id="e2" type="InteractionWord" norm="" conf="80">
+            	<parts>
+            		<part sw="w2" ew="w2">licensed</part>
+            	</parts>
+            </ent>
+        </ents>
+        <relations>
+            <relation id="r0" type="ppi" conf="100" IsDirect="NotDirect" IsProven="Referenced" IsPositive="Positive">
+                <argument ref="e0">
+                    <attribute name="Modification" ref="e2"/>
+                </argument>
+                <argument ref="e1"></argument>
+                <attribute name="InteractionWordEntity" ref="e2"/>
+            </relation>
+        </relations>
+        <zones>
+        	<zone type="firstemployment">
+        		<parts>
+					<part sw="w1" ew="w2">of
+                    licensed</part>
+				</parts>
+        	</zone>
+        </zones>
+    </standoff>
+</document>

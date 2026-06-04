@@ -1,0 +1,34 @@
+
+Report 2222 : CT : xxx
+
+Ischaemic stroke, deep, recent [ select ]
+Ischaemic stroke, deep, old [ select ]
+Ischaemic stroke, cortical, recent [ select ]
+Ischaemic stroke, cortical, old [ select ]
+Ischaemic stroke, underspecified [ select ]
+Haemorrhagic stroke, deep, recent [ select ]
+Haemorrhagic stroke, deep, old [ select ]
+Haemorrhagic stroke, lobar, recent [ select ]
+Haemorrhagic stroke, lobar, old [ select ]
+Haemorrhagic stroke, underspecified [ select ]
+Stroke, underspecified [ select ]
+Tumour, meningioma [ select ]
+Tumour, metastasis [ select ]
+Tumour, glioma [ select ]
+Tumour, other [ select ]
+Small vessel disease [ select ]
+Atrophy [ select ]
+Subdural haematoma [ select ]
+Subarachnoid haemorrhage, aneurysmal [ select ]
+Subarachnoid haemorrhage, other [ select ]
+Microbleed, deep [ select ]
+Microbleed, lobar [ select ]
+Microbleed, underspecified [ select ]
+Haemorrhagic transformation [ select ]
+
+CLINICAL HISTORY
+
+
+REPORT
+
+CT HEAD PRE AND POST CONTRAST. Comparison is made with the previous CT examination. Pre-contrast study shows focal areas of hyperattenuation in the anterior left frontal lobe, in the left corona radiata and within the centrum semi-ovale on the left, new since the previous CT. There are minimal white matter changes around the anterior left frontal lesion. Small chronic left convexity subdural collection. Small quantity of subarachnoid blood in left frontal sulcus. Moderate small vessel disease. No extra-axial collections. Normal ventricles and basal cisterns. Skull vault normal. Contrast images show no evidence of abnormal enhancement. Multiple foci of acute haemorrhage in the left frontal lobe, trace of subarachnoid blood and shallow left subdural haemorrhage. No evidence of cerebral metastases.

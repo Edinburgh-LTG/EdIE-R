@@ -1,0 +1,35 @@
+
+Report 1111 : CT : xxx
+
+Ischaemic stroke, deep, recent [ select ]
+Ischaemic stroke, deep, old [ select ]
+Ischaemic stroke, cortical, recent [ select ]
+Ischaemic stroke, cortical, old [ select ]
+Ischaemic stroke, underspecified [ select ]
+Haemorrhagic stroke, deep, recent [ select ]
+Haemorrhagic stroke, deep, old [ select ]
+Haemorrhagic stroke, lobar, recent [ select ]
+Haemorrhagic stroke, lobar, old [ select ]
+Haemorrhagic stroke, underspecified [ select ]
+Stroke, underspecified [ select ]
+Tumour, meningioma [ select ]
+Tumour, metastasis [ select ]
+Tumour, glioma [ select ]
+Tumour, other [ select ]
+Small vessel disease [ select ]
+Atrophy [ select ]
+Subdural haematoma [ select ]
+Subarachnoid haemorrhage, aneurysmal [ select ]
+Subarachnoid haemorrhage, other [ select ]
+Microbleed, deep [ select ]
+Microbleed, lobar [ select ]
+Microbleed, underspecified [ select ]
+Haemorrhagic transformation [ select ]
+
+CLINICAL HISTORY
+
+Clinical details: falls, ?cerebellar infarct, rule out subdural.
+
+REPORT
+
+Findings: Noncontrast study. No previous CT for comparison. There is increased attenuation seen within the distal left terminal carotid artery and proximal portion of the left middle cerebral artery consistent with acute thrombus. Subtle sulcal effacement is noted in the left MCA territory, particularly around the peri-Sylvian parenchyma. Evolving left MCA infarction. No acute haemorrhage seen. Generalised atrophy and is evidence of some diffuse low density change within the cerebral white matter which would be in keeping with small vessel cerebrovascular ischaemia.

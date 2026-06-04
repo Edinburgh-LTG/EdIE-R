@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?><document version="3">
+<meta><attr name="title">Java Developer Resume - Byron Hawkins</attr></meta>
+<text>
+<p font-size="12pt" font-name="Times New Roman">Byron Hawkins
+Melbourne, FL 32940
+byron@hawkinssoftware.net</p>
+<div type="h"><p font-size="13pt" font-name="Arial" font-weight="bold">Primary Technologies</p></div>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Java</p>
+</div>
+</div>
+<div type="list"><div type="list-item"><div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Core classes with generics</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Swing with drag-n-drop and animation – javax.swing, java.awt.dnd</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Concurrency – java.util.concurrent, java.util.concurrent.locks</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">2D drawing and image processing – java.awt, javax.imageio</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Networking and RMI – java.net, java.rmi</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">JNI</p>
+</div>
+</div>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">J2EE</p>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Servlets/JSP on Oracle Application Server, Apache/Tomcat, JRun, JServe, Resin</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">JDBC with Oracle, MS SQL Server and MySQL</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">EJB on Oracle Application Server and JBoss</p>
+</div>
+</div>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">C/C++</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Flash ActionScript 2.0 with Flash Remoting</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Familiarity with CSS Layout, AJAX, XML, XSLT</p>
+</div>
+</div>
+<div type="h"><p font-size="13pt" font-name="Arial" font-weight="bold">Resources</p></div>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Case study featuring my Swing application at SafeHarbor Corporation</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Design patterns in recent development</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Code samples of basic algorithm implementations</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Summary of research and development on data storage problems</p>
+</div>
+</div>
+<div type="h"><p font-size="13pt" font-name="Arial" font-weight="bold">Experience</p></div>
+<p font-size="12pt" font-name="Times New Roman">Java Swing/J2EE Development 1/2007-12/2007 · contract for the South Florida Water Management District.</p>
+<p font-size="12pt" font-name="Times New Roman">Designed and developed Graphical Verification Analysis (GVA), a J2EE application hosted on Oracle Application Server using Oracle DBMS with a Swing desktop client.  The application features:</p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Java 2D rendering and visual editing of time series plots</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Concurrent access to every plot</p>
+</div>
+</div>
+<div type="list"><div type="list-item"><div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Exclusive write privilege is transferable on the fly for collaborative plot editing</p>
+</div>
+</div>
+</div>
+</div>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Basic workflow with automatic email notification</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Metadata configurable for integration with any database containing time series tables</p>
+</div>
+</div>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">GVA Client Features</p>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Rendering of a million-point plot in under one second without OpenGL graphics acceleration (as requested by the client).</p>
+</div>
+</div>
+<div type="list"><div type="list-item"><div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Minimal memory footprint: 40 bytes per time series point.</p>
+</div>
+</div>
+</div>
+</div>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Continuous zoom and realtime pan</p>
+</div>
+</div>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Custom plot editing tools</p>
+</div>
+</div>
+<div type="list"><div type="list-item"><div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">One-click point insertion/deletion</p>
+</div>
+</div>
+</div>
+</div>
+<div type="list"><div type="list-item"><div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Drag-n-drop point repositioning</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Linear expansion and contraction of the time and/or value dimensions of any contiguous data segment</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Copy and paste of contiguous data segments</p>
+</div>
+</div>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Custom components, including:</p>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Data overview displaying period of record and daily point count per field station</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Date/time entry field</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Entry fields for time series point coordinates, ranges and segment deltas</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Spellchecker integrated into all text fields, supporting custom dictionary additions</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Color palette, stored for each user with java.util.preferences.</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Integrated mouse-over help panel, providing a detailed instructions for the use of each application component; help content displayed in XHTML with CSS.  </p>
+</div>
+</div>
+</div>
+</div>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Custom KeyboardFocusManager for processing keyboard shortcuts without modifiers</p>
+</div>
+</div>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Infinite undo/redo</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Optional display of original (unmodified) plot data</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Intermediate reset returns the application to its initial state without re-instantiating logically static members (minimizing heap churn)</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Status bar for long-running server commands, with accuracy to 5%</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Selective persistence of plot modifications to long-term storage</p>
+</div>
+</div>
+<div type="list"><div type="list-item"><div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Persistence history maintained for the plot lifecycle</p>
+</div>
+</div>
+</div>
+</div>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Import/export plot data to/from CSV format for use with Microsoft Excel</p>
+</div>
+</div>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Printing at any scale</p>
+</div>
+</div>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Automatic reporting of uncaught exceptions via email, including:</p>
+</div>
+</div>
+<div type="list"><div type="list-item"><div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Complete history of user actions during the session</p>
+</div>
+</div>
+</div>
+</div>
+<div type="list"><div type="list-item"><div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Stack traces for all uncaught exceptions</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">A screenshot taken at the time of the exception</p>
+</div>
+</div>
+</div>
+</div>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">GVA Server Features</p>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Stateless, cluster-safe execution</p>
+</div>
+</div>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Process manager providing cancellation of any command</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Support for multiple user groups, each featuring a distinct</p>
+</div>
+</div>
+<div type="list"><div type="list-item"><div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">plot catalog and administrative data set</p>
+</div>
+</div>
+</div>
+</div>
+<div type="list"><div type="list-item"><div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">user role configuration</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">set of command processing implementations (when necessary)</p>
+</div>
+</div>
+</div>
+</div>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">The GVA client and server share a codebase of 45,000 lines (pure code count).</p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Java Swing Development 11/2004-1/2007 · SafeHarbor Technology Corporation</p>
+<p font-size="12pt" font-name="Times New Roman">Designed and developed the SafeHarbor Knowledge Management Application, the user-interface for a metadata-driven website production infrastructure, using Swing with custom components. This distributed application facilitated production of SafeHarbor's multi-million dollar support website for Sprint in less than 6 weeks. Also designed and developed Project Falcon, a desktop knowledge article publication platform using Swing with custom components and timer-based animation. View screenshots of Project Falcon in a case study for the RealObjects Edit-On JavaBean. The Knowledge Management Application and Project Falcon share a codebase of 100,000 lines (pure-code count).</p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Features of the Knowledge Management Application</p>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Construction of menus, table and tree-table columns, search criteria and detail windows on the fly according to metadata descriptors loaded via webservice</p>
+</div>
+</div>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Workflow management with projects in multiple publication environments</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Unlimited undo past save with context-dependent field validation</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Extensive drag and drop</p>
+</div>
+</div>
+<div type="list"><div type="list-item"><div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Tree re-structuring with node-specific drop and a visual position indicator</p>
+</div>
+</div>
+</div>
+</div>
+<div type="list"><div type="list-item"><div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Continuous drop target evaluation (informs the user what any particular drop action will do, or why a particular drop location is not allowed)</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Auto-import of HTML fragments dragged into the editor pane from any browser</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Auto-import and upload of images dragged from the desktop or any browser</p>
+</div>
+</div>
+</div>
+</div>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Custom components, including:</p>
+</div>
+</div>
+<div type="list"><div type="list-item"><div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Docking toolbar with animation of fade in/out, rolling palettes and palette panning </p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Combo box with animated roll-down and ½-alpha backdrop</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Domain/selection list pair with fly-across animation of selection/deselection</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Tabbed accessory panel with animated expansion and contraction</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">List with embedded components and animation of insert/move/delete operations</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Table superior to JTable in:</p>
+</div>
+</div>
+</div>
+</div>
+<div type="list"><div type="list-item"><div type="list"><div type="list-item"><div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">rendering efficiency and scrolling smoothness</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">column layout management</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">mouse-over response</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">selection management</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">cell editing flexibility</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">embedded component support.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div type="list"><div type="list-item"><div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Taskbar for application sub-frames (similar to the Windows taskbar)</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Date picker with date range support</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Last-modified-date slider for filtering a document list</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Submenu with mouse-over autoscroll regions at the top and bottom</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Three-way selector for including, excluding, or ignoring search criteria</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Collapsible panel with disclosure button</p>
+</div>
+</div>
+</div>
+</div>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Right-click context menus on everything</p>
+</div>
+</div>
+<div type="list"><div type="list-item"><p font-size="12pt" font-name="Times New Roman">Continuous synchronization of data model with other application instances</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">WebDAV repository browser with desktop import/export and full drag-n-drop support</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Concurrent invocation and monitoring of server tasks</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Data reloading interleaved with local deltas</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Mid-truncation support for text in all tables, trees and tree-tables</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Anti-aliased text</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Type-ahead search</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Keyboard shortcuts</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Document tag support with realtime popularity calculation</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Thumbnail generation of HTML documents</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Embedded Internet Explorer browser instance</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Document transformation with XSLT, including layouts for Sony PSP and Blackberry</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">User preferences such as preferred window size and location per window type</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Import and conversion of support website pages hosted by SafeHarbor competitors</p>
+</div>
+<div type="list-item"><p font-size="12pt" font-name="Times New Roman">Error reporting by email, including desktop screenshots and user-level activity stack</p>
+</div>
+</div>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Java/Flash Development 1/2003-10/2004 · Developer and owner of MegaPictures.net.</p>
+<p font-size="12pt" font-name="Times New Roman">Created the online slideshow hosting site www.megapictures.net using Flash with a Java webserver. Developed the Slideshow Builder in ActionScript 2.0 with Flash components, using Flash Remoting for server connectivity. Built the webserver with JSP and Java servlets. Designed and implemented an interactive guide based on the Integrated Tutorial Model (see next section) to facilitate usability for the self-proclaimed "computer illiterate."</p>
+<p font-size="12pt" font-name="Times New Roman"> </p>
+<p font-size="12pt" font-name="Times New Roman">Research and Development 2/2003-4/2003 · HawkinsSoftware</p>
+<p font-size="12pt" font-name="Times New Roman">Developed the Integrated Tutorial Model (ITM) to mediate the inherent difference in information processing style between humans and computers. Software developers use ITM to produce a set of integrated help features that collectively explain the functionality of an application to its end user. The principles of ITM are derived from tensor calculus and Riemann geometry to guarantee that every point of application functionality is presented to the end user, and that the set of integrated help features is comprised of atomic nodes. </p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Java/Flash Development 8/2003-1/2004 · technical partner of ShowVox Corporation</p>
+<p font-size="12pt" font-name="Times New Roman">Transformed the video community www.showvox.com (similar to YouTube) into a website building tool for non-technical users. Designed and built a Flash application that receives media uploads into the user's online media library, and provided tools for creating Flash-based web pages with rich text, photos and videos. </p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Java Developer 6/2003-8/2003 · contract for ShowVox Corporation</p>
+<p font-size="12pt" font-name="Times New Roman">Re-developed the Java webserver from the former site www.shareyourworld.com into the new online video community www.showvox.com. Added credit card processing. </p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Research and Development 9/2002-8/2003 · HawkinsSoftware</p>
+<p font-size="12pt" font-name="Times New Roman">Designed and developed Decaf Java, a point-and-click plugin development tool suitable for integration into any desktop application. Software developers use Decaf Java to create "plugin icons" corresponding to selected elements of user-level application functionality. The application user customizes the application by making sequences and structures with these plugin icons. Under the hood, Decaf Java compiles these sequences and structures into java classes that perform the functionality specified by the end user. A JNI integration package is provided for native applications.</p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Java Development 6/2002-8/2002 · contract for NetPlasma Corporation</p>
+<p font-size="12pt" font-name="Times New Roman">Design and development of the initial prototype of the flagship product, which encapsulates data source routing within a replicated and partitioned database application environment. This middle-tier utility simplifies the administrative tasks of adding, partitioning and removing database servers within the environment by providing a Swing user-interface that manages changes to data source locations and content. </p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Research and Development · view summary 5/2001-5/2002 · HawkinsSoftware</p>
+<p font-size="12pt" font-name="Times New Roman">Established a mathematical foundation for simplifying programmatic access to a database while improving to efficiency to disk-read time. Applied concepts of tensor calculus and Riemann geometry to model the fundamental differences between object-oriented data constructs and database storage facilities. Applied concepts of quantum mechanics and Einstein's Theory of Relativity to model the fundamental differences between a database index and the contents of its indexed table (i.e., derived a tensor d(index)/d(data)). For more information please refer to the official summary page for this project.</p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Java Developer 12/2000-3/2001 · contract for InstantService.com</p>
+<p font-size="12pt" font-name="Times New Roman">Design and development of in-house administration facilities using Java servlets (Apache/JRun) and a custom version of my object-relational mapper. Developed new features in the online customer service application and cleared the backlog of existing bugs. Proposed detailed designs for future infrastructure enhancements, including: proper application of JFC; encapsulation and optimization of database access; standardization of generic facilities across the network. </p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Research and Development 7/2000-11/2000 · HawkinsSoftware</p>
+<p font-size="12pt" font-name="Times New Roman">Explored the potential for simplification of database access through the development of an intermediate layer of translation code (such as a mapper). Discovered a linear conflict between data access flexibility and efficiency where 100% accuracy is required. Concluded that there exists no algebraic (mapping) solution to the flexibility and efficiency problems of today's data storage and retrieval systems. </p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Java Developer 4/2000-7/2000 · Tenzing, Inc. (now OnAir)</p>
+<p font-size="12pt" font-name="Times New Roman">Design and development of an internet and email server for in-flight connectivity on commercial airlines, which allows passengers to browse the internet and send email during flight. Worked with a team of 6 to design core server functionality, define use cases, and implement the system in Java. </p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Java Developer 1/2000-3/2000 · contract for The Joshua Group</p>
+<p font-size="12pt" font-name="Times New Roman">Design and development of an EJB application server running against Domain (an ODBMS). Retrofit existing database applications to the new server. Applied my object-relational mapper to integrate the server with any RDBMS. Design and development of the company's public website using JSP. Design and development of a custom Internet browser including special parsing of custom HTML tags. Deployment and administration of the initial production server. Introduction of CVS and other such development standards to the company. </p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Java Servlet Developer 7/1999-11/1999 · US West Communications (now Qwest)</p>
+<p font-size="12pt" font-name="Times New Roman">Design and development of Java servlets (Apache/JServe) using my object-relational mapper. Increased department efficiency dramatically by integrating the O/R mapper into existing servlet framework. Projects includes backend programming for live video display systems at the Pepsi Center in Denver, CO. </p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Java Swing Developer 5/1999-6/1999 · Excell Data Corporation</p>
+<p font-size="12pt" font-name="Times New Roman">Design and development of a Java applet and application server component to provide Internet access to a Gemstone/Smalltalk database application. </p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Freeware Development 1/1999-5/1999 · HawkinsSoftware</p>
+<p font-size="12pt" font-name="Times New Roman">Designed and developed FormLayout (extends java.awt.LayoutManager), a Java layout manager that serves to construct business forms with random-access row and column parameters per component or label/field pair. Wrote an article for Sun Microsystems' publication The Swing Connection about FormLayout and effective use of the LayoutManager interface. I continue to receive grateful emails from developers who are delighted they no longer have to lay out their business forms by hand. </p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Software Developer 1/1998-1/1999 · Asix, Inc.</p>
+<p font-size="12pt" font-name="Times New Roman">Design and development of Ascend, a property tax management system for county governments. Developed a persistence framework for previous versions of the product, and added maintenance-release features with record efficiency. Organized code policy and implemented system wide overhaul. </p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Software Developer 1/1997-9/1997 · Sequel Technology</p>
+<p font-size="12pt" font-name="Times New Roman">Developed the prototype and initial version of the Sequel Proxy Filter in C++, an Internet proxy server that integrates with the flagship product Internet Resource Manager (IRM). Developed installation utilities for IRM. Organized and oversaw the build and deployment process. </p>
+<p para="empty" font-size="12pt" font-name="Times New Roman"/>
+<p font-size="12pt" font-name="Times New Roman">Software Developer 6/1996-12/1996 · AT&amp;T Wireless </p>
+<p font-size="12pt" font-name="Times New Roman">Built new features in the middle tier of the Axys project, a customer service database application for cellular service billing and accounts. Developed a unit test driver in C++/Unix using RogueWave foundation classes to test the middle tier, including an automated test case generator similar to Sun Microsystems' SunTest. </p>
+<div type="h"><p font-size="13pt" font-name="Arial" font-weight="bold">Education</p></div>
+<p font-size="12pt" font-name="Times New Roman">Bachelor of Science in Computer Science and Bachelor of Musical Arts, Pacific Lutheran University, 1996; 3.65 GPA.</p>
+</text></document>

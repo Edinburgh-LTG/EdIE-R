@@ -1,0 +1,237 @@
+<html>
+ <head>
+ <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+  <style>
+       strike {
+        text-decoration: none;
+        background-image: linear-gradient(transparent 7px,#000000 7px,#000000 9px,transparent 9px);
+       }
+      </style>
+  <style>div.mrirecord {border:2px solid #000000}</style>
+  <style>div.ctrecord {border:2px solid #000000}</style>
+  <style>div.usrecord {border:2px solid #000000}</style>
+  <style>div.report {border:2px solid #6699FF}</style>
+  <style>div.concl {border:2px solid #99FF99}</style>
+  <style>span.svd {background:#FFFF99}</style>
+  <style>span.atrophy {background:#99FF99}</style>
+  <style>span.ischstroke {background:#FF8899}</style>
+  <style>span.haemstroke {background:#009999}</style>
+  <style>span.stroke {background:#FF8533}</style>
+  <style>span.tumour {background:#6699FF}</style>
+  <style>span.haematoma {background:#BB88FF}</style>
+  <style>span.microh {background:#CCFFFF}</style>
+  <style>span.subarach {background:#FFCCFF}</style>
+  <style>span.haemtrans {background:#CCFF00}</style>
+  <style>span.deep {color:red}</style>
+  <style>span.cortical {color:blue}</style>
+  <style>span.old {color:#00CC00}</style>
+  <style>span.recent {color:#FFCC00}</style>
+ </head>
+ <body>
+  <table style="border:2px solid #000000" border="0" align="center">
+   <tr>
+    <td align="center" colspan="4"><b>Mark-up Key</b>
+    </td>
+   </tr>
+   <tr></tr>
+   <tr>
+    <td style="background-color:LightBlue" colspan="2">Positive label for entire record</td>
+    <td colspan="2"><strike>negated mark-up</strike>
+    </td>
+   </tr>
+   <tr></tr>
+   <tr>
+    <td><span class="ischstroke">Ischaemic stroke</span>
+    </td>
+    <td><span class="haemstroke">Haemorrhagic stroke</span>
+    </td>
+    <td><span class="stroke">Stroke (type unknown)</span>
+    </td>
+   </tr>
+   <tr>
+    <td><span class="haematoma">Subdural haematoma</span>
+    </td>
+    <td><span class="microh">Microhaemorrhage</span>
+    </td>
+    <td><span class="subarach">Subarachnoid haemorrhage</span>
+    </td>
+    <td><span class="haemtrans">Haemorrhagic transformation</span>
+    </td>
+   </tr>
+   <tr>
+    <td><span class="tumour">Tumour</span>
+    </td>
+    <td><span class="svd">Small vessel disease</span>
+    </td>
+    <td><span class="atrophy">Atrophy</span>
+    </td>
+   </tr>
+   <tr>
+    <td><span class="deep">Deep</span>
+    </td>
+    <td><span class="cortical">Cortical</span>
+    </td>
+    <td><span class="old">Old</span>
+    </td>
+    <td><span class="recent">Recent</span>
+    </td>
+   </tr>
+  </table>
+  <br>
+  <br>
+  <br>
+  <div style="padding:2px" class="ctrecord">
+<p><b>Document : 0001<br>Report 1111 : CT</b></p><table style="border:2px solid #000000" border="1" align="center">
+    <tr>
+     <td>Ischaemic stroke, deep, recent</td>
+     <td>Ischaemic stroke, deep, old</td>
+     <td style="background-color:LightBlue">Ischaemic stroke, cortical, recent</td>
+     <td>Ischaemic stroke, cortical, old</td>
+    </tr>
+    <tr>
+     <td>Haemorrhagic stroke, deep, recent</td>
+     <td>Haemorrhagic stroke, deep, old</td>
+     <td>Haemorrhagic stroke, lobar, recent</td>
+     <td>Haemorrhagic stroke, lobar, old</td>
+    </tr>
+    <tr>
+     <td>Ischaemic stroke, underspecified</td>
+     <td>Haemorrhagic stroke, underspecified</td>
+     <td>Stroke, underspecified</td>
+    </tr>
+    <tr>
+     <td>Tumour, meningioma</td>
+     <td>Tumour, metastasis</td>
+     <td>Tumour, glioma</td>
+     <td>Tumour, other</td>
+    </tr>
+    <tr>
+     <td style="background-color:LightBlue">Small vessel disease</td>
+     <td style="background-color:LightBlue">Atrophy</td>
+     <td>Subdural haematoma</td>
+    </tr>
+    <tr>
+     <td>Subarachnoid haemorrhage, aneurysmal</td>
+     <td>Subarachnoid haemorrhage, other</td>
+     <td>Haemorrhagic transformation</td>
+    </tr>
+    <tr>
+     <td>Microbleed, deep</td>
+     <td>Microbleed, lobar</td>
+     <td>Microbleed, underspecified</td>
+    </tr></table><br><br>
+
+
+<p>Clinical details: falls, ?cerebellar infarct, rule out subdural.</p> 
+
+
+<p>Findings: Noncontrast study. No previous CT for comparison. There is increased attenuation seen within the distal left terminal carotid artery and proximal portion of the left <span class="cortical">middle cerebral artery</span> consistent with <span class="recent">acute</span> thrombus. Subtle sulcal effacement is noted in the left <span class="cortical">MCA</span> territory, particularly around the peri-Sylvian parenchyma. [<span class="recent">Evolving</span>] left [<span class="cortical">MCA</span>] [<span class="ischstroke">infarction</span>]. No [<span class="recent"><b><strike>acute</strike></b></span>] [<span class="haemstroke"><b><strike>haemorrhage</strike></b></span>] seen. Generalised <span class="atrophy">atrophy</span> and is evidence of some diffuse low density change within the cerebral white matter which would be in keeping with <span class="svd">small vessel cerebrovascular ischaemia</span>.</p>
+
+
+
+</div>
+  <br>
+  <br>
+  <div style="padding:2px" class="ctrecord">
+<p><b>Document : 0002<br>Report 2222 : CT</b></p><table style="border:2px solid #000000" border="1" align="center">
+    <tr>
+     <td>Ischaemic stroke, deep, recent</td>
+     <td>Ischaemic stroke, deep, old</td>
+     <td>Ischaemic stroke, cortical, recent</td>
+     <td>Ischaemic stroke, cortical, old</td>
+    </tr>
+    <tr>
+     <td>Haemorrhagic stroke, deep, recent</td>
+     <td>Haemorrhagic stroke, deep, old</td>
+     <td style="background-color:LightBlue">Haemorrhagic stroke, lobar, recent</td>
+     <td>Haemorrhagic stroke, lobar, old</td>
+    </tr>
+    <tr>
+     <td>Ischaemic stroke, underspecified</td>
+     <td>Haemorrhagic stroke, underspecified</td>
+     <td>Stroke, underspecified</td>
+    </tr>
+    <tr>
+     <td>Tumour, meningioma</td>
+     <td>Tumour, metastasis</td>
+     <td>Tumour, glioma</td>
+     <td>Tumour, other</td>
+    </tr>
+    <tr>
+     <td style="background-color:LightBlue">Small vessel disease</td>
+     <td>Atrophy</td>
+     <td style="background-color:LightBlue">Subdural haematoma</td>
+    </tr>
+    <tr>
+     <td>Subarachnoid haemorrhage, aneurysmal</td>
+     <td style="background-color:LightBlue">Subarachnoid haemorrhage, other</td>
+     <td>Haemorrhagic transformation</td>
+    </tr>
+    <tr>
+     <td>Microbleed, deep</td>
+     <td>Microbleed, lobar</td>
+     <td>Microbleed, underspecified</td>
+    </tr></table><br><br>
+
+
+<p>CT HEAD PRE AND POST CONTRAST. Comparison is made with the previous CT examination. Pre-contrast study shows focal areas of hyperattenuation in the anterior left <span class="cortical">frontal lobe</span>, in the left <span class="deep">corona radiata</span> and within the <span class="deep">centrum semi-ovale</span> on the left, <span class="recent">new</span> since the previous CT. There are minimal <span class="svd">white matter changes</span> around the anterior left <span class="cortical">frontal</span> lesion. Small <span class="old">chronic</span> left convexity <span class="haematoma">subdural collection</span>. Small quantity of <span class="subarach">subarachnoid blood</span> in left <span class="cortical">frontal</span> sulcus. Moderate <span class="svd">small vessel disease</span>. No <span class="haematoma"><b><strike>extra-axial</strike></b> <b><strike>collections</strike></b></span>. Normal ventricles and basal cisterns. Skull vault normal. Contrast images show no evidence of abnormal enhancement. Multiple foci of [<span class="recent">acute</span>] [<span class="haemstroke">haemorrhage</span>] in the left [<span class="cortical">frontal lobe</span>], trace of <span class="subarach">subarachnoid blood</span> and shallow left <span class="haematoma">subdural haemorrhage</span>. No evidence of cerebral <span class="tumour"><b><strike>metastases</strike></b></span>.</p>
+
+
+
+</div>
+  <br>
+  <br>
+  <div style="padding:2px" class="ctrecord">
+<p><b>Document : 0003<br>Report 3333 : CT</b></p><table style="border:2px solid #000000" border="1" align="center">
+    <tr>
+     <td>Ischaemic stroke, deep, recent</td>
+     <td>Ischaemic stroke, deep, old</td>
+     <td>Ischaemic stroke, cortical, recent</td>
+     <td>Ischaemic stroke, cortical, old</td>
+    </tr>
+    <tr>
+     <td>Haemorrhagic stroke, deep, recent</td>
+     <td>Haemorrhagic stroke, deep, old</td>
+     <td>Haemorrhagic stroke, lobar, recent</td>
+     <td>Haemorrhagic stroke, lobar, old</td>
+    </tr>
+    <tr>
+     <td>Ischaemic stroke, underspecified</td>
+     <td>Haemorrhagic stroke, underspecified</td>
+     <td>Stroke, underspecified</td>
+    </tr>
+    <tr>
+     <td>Tumour, meningioma</td>
+     <td>Tumour, metastasis</td>
+     <td>Tumour, glioma</td>
+     <td>Tumour, other</td>
+    </tr>
+    <tr>
+     <td style="background-color:LightBlue">Small vessel disease</td>
+     <td>Atrophy</td>
+     <td>Subdural haematoma</td>
+    </tr>
+    <tr>
+     <td>Subarachnoid haemorrhage, aneurysmal</td>
+     <td>Subarachnoid haemorrhage, other</td>
+     <td>Haemorrhagic transformation</td>
+    </tr>
+    <tr>
+     <td>Microbleed, deep</td>
+     <td>Microbleed, lobar</td>
+     <td>Microbleed, underspecified</td>
+    </tr></table><br><br>
+
+
+<p>Clinical information: ?bleed.</p> 
+
+
+<p>Unenhanced scan. Comparison is made to previous CT dated. <span class="old">Established</span> right <span class="cortical">parietal</span> <span class="deep">subcortical</span> gliosis, unchanged since the previous scan. Several patchy white matter low density areas within the <span class="deep">corona radiata</span> as well as at the periventricular regions suggestive of <span class="svd">small vessel disease</span>. No intra parenchymal <span class="haemstroke"><b><strike>bleed</strike></b></span>. No <span class="tumour"><b><strike>space</strike></b> <b><strike>occupying</strike></b> <b><strike>lesions</strike></b></span> or <span class="haematoma"><b><strike>extra-axial</strike></b> <b><strike>collection</strike></b></span>. Normal <span class="deep">cerebellum</span> and <span class="deep">brainstem</span>. No bony destruction. No [<span class="recent"><b><strike>acute</strike></b></span>] [<span class="haemstroke"><b><strike>haemorrhage</strike></b></span>]. No significant changes to <span class="old">previous</span>.</p>
+
+
+
+</div>
+  <br>
+  <br>
+ </body>
+</html>

@@ -1,0 +1,21 @@
+Detailed Scoring Comparison data for document: 0001-ann.xml
+
+FALSE POSITIVES
+===============
+
+FALSE NEGATIVES
+===============
+
+TRUE POSITIVES
+==============
+%TP [EntityFeature "haemorrhage" Type:'haemorrhagic_stroke' vs. 'haemorrhagic_stroke' (e8 1386,1397)]
+%TP [EntityFeature "atrophy" Type:'atrophy' vs. 'atrophy' (e9 1416,1423)]
+%TP [EntityFeature "small vessel cerebrovascular ischaemia" Type:'small_vessel_disease' vs. 'small_vessel_disease' (e10 1539,1577)]
+%TP [EntityFeature "middle cerebral artery" Type:'loc_cortical' vs. 'loc_cortical' (e1 1182,1204)]
+%TP [EntityFeature "MCA" Type:'loc_cortical' vs. 'loc_cortical' (e3 1283,1286)]
+%TP [EntityFeature "MCA" Type:'loc_cortical' vs. 'loc_cortical' (e5 1361,1364)]
+%TP [EntityFeature "infarction" Type:'ischaemic_stroke' vs. 'ischaemic_stroke' (e6 1365,1375)]
+%TP [EntityFeature "acute" Type:'time_recent' vs. 'time_recent' (e2 1221,1226)]
+%TP [EntityFeature "Evolving" Type:'time_recent' vs. 'time_recent' (e4 1347,1355)]
+%TP [EntityFeature "acute" Type:'time_recent' vs. 'time_recent' (e7 1380,1385)]
+

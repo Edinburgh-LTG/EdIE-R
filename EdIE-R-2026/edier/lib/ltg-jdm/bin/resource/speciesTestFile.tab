@@ -1,0 +1,100 @@
+refseq:YP_024674	ncbitaxon:264729	COG5566	gp01
+refseq:YP_024675	ncbitaxon:264729	DUF1018	gp02
+refseq:YP_024676	ncbitaxon:264729	DUF1018	gp03
+refseq:YP_024677	ncbitaxon:264729	HU_IHF	gp04
+refseq:YP_024678	ncbitaxon:264729	HU_IHF	gp05
+refseq:YP_024679	ncbitaxon:264729	HU_IHF	gp06
+refseq:YP_024680	ncbitaxon:264729	HU_IHF	gp07
+refseq:YP_024681	ncbitaxon:264729	ExeA	gp08
+refseq:YP_024682	ncbitaxon:264729	rve	gp09
+refseq:YP_024683	ncbitaxon:264729	rve	gp10
+refseq:YP_024684	ncbitaxon:264729	rve	gp11
+refseq:YP_024685	ncbitaxon:264729	HTH_MARR	gp12
+refseq:YP_024686	ncbitaxon:264729	HTH_MARR	gp13
+refseq:YP_024687	ncbitaxon:264729	HTH_MARR	gp14
+refseq:YP_024688	ncbitaxon:264729	HTH_MARR	gp15
+refseq:YP_024689	ncbitaxon:264729	HTH_MARR	gp16
+refseq:YP_024690	ncbitaxon:264729	HTH_MARR	gp17
+refseq:YP_024691	ncbitaxon:264729	HTH_MARR	gp18
+refseq:YP_024692	ncbitaxon:264729	HTH_MARR	gp19
+refseq:YP_024693	ncbitaxon:264729	HTH_MARR	gp20
+refseq:YP_024694	ncbitaxon:264729	HTH_MARR	gp21
+refseq:YP_024695	ncbitaxon:264729	LT_GEWL	gp22
+refseq:YP_024696	ncbitaxon:264729	LT_GEWL	gp23
+refseq:YP_024697	ncbitaxon:264729	LT_GEWL	gp24
+refseq:YP_024698	ncbitaxon:264729	LT_GEWL	gp25
+refseq:YP_024699	ncbitaxon:264729	LT_GEWL	gp26
+refseq:YP_024700	ncbitaxon:264729	LT_GEWL	gp27
+refseq:YP_024701	ncbitaxon:264729	COG4373	gp28
+refseq:YP_024702	ncbitaxon:264729	DUF935	gp29
+refseq:YP_024703	ncbitaxon:264729	COG2369	gp30
+refseq:YP_024704	ncbitaxon:264729	COG5005	gp31
+refseq:YP_024705	ncbitaxon:264729	COG5005	gp32
+refseq:YP_024706	ncbitaxon:264729	COG5005	gp33
+refseq:YP_024707	ncbitaxon:264729	COG5005	gp34
+refseq:YP_024708	ncbitaxon:264729	COG5005	gp35
+refseq:YP_024709	ncbitaxon:264729	DUF1320	gp36
+refseq:YP_024710	ncbitaxon:264729	DUF1320	gp37
+refseq:YP_024711	ncbitaxon:264729	DUF1320	gp38
+refseq:YP_024712	ncbitaxon:264729	Phage_sheath_1	gp39
+refseq:YP_024713	ncbitaxon:264729	Phage_tube	gp40
+refseq:YP_024714	ncbitaxon:264729	Phage_tube	gp41
+refseq:YP_024715	ncbitaxon:264729	Phage_tube	gp42
+refseq:YP_024716	ncbitaxon:264729	Phage_tube	gp43
+refseq:YP_024717	ncbitaxon:264729	COG5283	gp44
+refseq:YP_024718	ncbitaxon:264729	Phage_P2_GpU	gp45
+refseq:YP_024719	ncbitaxon:264729	Phage_tail_X	gp46
+refseq:YP_024720	ncbitaxon:264729	Phage_GPD	gp47
+refseq:YP_024721	ncbitaxon:264729	gpV	gp48
+refseq:YP_024722	ncbitaxon:264729	GPW_gp25	gp49
+refseq:YP_024723	ncbitaxon:264729	COG3948	gp50
+refseq:YP_024724	ncbitaxon:264729	gpI	gp51
+refseq:YP_024725	ncbitaxon:264729	gpI	gp52
+refseq:YP_024726	ncbitaxon:264729	COG1835	gp53
+refseq:YP_272279	ncbitaxon:264730	COG1835	hypothetical protein
+refseq:YP_272311	ncbitaxon:264730	RelB	DNA-damage-inducible protein
+refseq:YP_272304	ncbitaxon:264730	RelB	possible relaxosome component
+refseq:YP_272259	ncbitaxon:264730	Pol_V	RulB protein
+refseq:YP_272283	ncbitaxon:264730	VirB4	conjugal transfer protein
+refseq:YP_272294	ncbitaxon:264730	MutL	hypothetical protein
+refseq:YP_272276	ncbitaxon:264730	MutL	hypothetical protein
+refseq:YP_272271	ncbitaxon:264730	DUF1224	addiction module toxin Txe
+refseq:YP_272261	ncbitaxon:264730	DUF891	hypothetical protein
+refseq:YP_272256	ncbitaxon:264730	DUF891	hypothetical protein
+refseq:YP_272309	ncbitaxon:264730	DUF891	putative TnpA repressor protein
+refseq:YP_272306	ncbitaxon:264730	GntR	transcriptional regulator, GntR family
+refseq:YP_272266	ncbitaxon:264730	DUF159	hypothetical protein
+refseq:YP_272313	ncbitaxon:264730	rve	site-specific recombinase, phage integrase family
+refseq:YP_272301	ncbitaxon:264730	CooC	TraL
+refseq:YP_272284	ncbitaxon:264730	CooC	conjugal transfer protein
+refseq:YP_272273	ncbitaxon:264730	FadR	transcriptional regulator, GntR family
+refseq:YP_272290	ncbitaxon:264730	TrbI	conjugal transfer protein
+refseq:YP_272286	ncbitaxon:264730	TrbL	conjugal transfer protein
+refseq:YP_272263	ncbitaxon:264730	TrbL	hypothetical protein
+refseq:YP_272310	ncbitaxon:264730	DUF332	addiction module toxin, RelE/StbE family
+refseq:YP_272291	ncbitaxon:264730	VirB11	conjugal transfer protein
+refseq:YP_272270	ncbitaxon:264730	DUF172	prevent-host-death family protein
+refseq:YP_272257	ncbitaxon:264730	Replicase	Replicase family family
+refseq:YP_272305	ncbitaxon:264730	Replicase	relaxase, putative
+refseq:YP_272296	ncbitaxon:264730	TraG_VirD4	conjugal transfer protein
+refseq:YP_272275	ncbitaxon:264730	Sugar_tr	major facilitator family transporter
+refseq:YP_272272	ncbitaxon:264730	INT_SG4	site-specific recombinase, phage integrase family
+refseq:YP_272293	ncbitaxon:264730	INT_SG4	hypothetical protein
+refseq:YP_272285	ncbitaxon:264730	INT_SG4	hypothetical protein
+refseq:YP_272260	ncbitaxon:264730	COG3636	transcriptional regulator, Cro/CI family
+refseq:YP_272267	ncbitaxon:264730	COG3636	hypothetical protein
+refseq:YP_272314	ncbitaxon:264730	ExeA	exeA-like protein
+refseq:YP_272277	ncbitaxon:264730	HipB	transcriptional regulator, PbsX family
+refseq:YP_272303	ncbitaxon:264730	HipB	hypothetical protein
+refseq:YP_272295	ncbitaxon:264730	HipB	hypothetical protein
+refseq:YP_272297	ncbitaxon:264730	HipB	killer protein, putative
+refseq:YP_272274	ncbitaxon:264730	COG0579	hypothetical protein
+refseq:YP_272288	ncbitaxon:264730	VirB8	conjugal transfer protein
+refseq:YP_272298	ncbitaxon:264730	TopA	DNA topoisomerase III
+refseq:YP_272258	ncbitaxon:264730	Peptidase_S24	ultraviolet light resistance protein A
+refseq:YP_272262	ncbitaxon:264730	Peptidase_S24	hypothetical protein
+refseq:YP_272265	ncbitaxon:264730	Peptidase_S24	hypothetical protein
+refseq:YP_272289	ncbitaxon:264730	CagX	conjugal transfer protein
+refseq:YP_272300	ncbitaxon:264730	SSB	single-strand binding protein
+refseq:YP_272292	ncbitaxon:264730	SSB	hypothetical protein
+refseq:YP_272269	ncbitaxon:264730	Transposase_mut	ISPsy18, transposase

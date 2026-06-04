@@ -1,0 +1,12 @@
+Detailed Scoring Comparison data for document: 0003-ann.xml
+
+FALSE POSITIVES
+===============
+
+FALSE NEGATIVES
+===============
+
+TRUE POSITIVES
+==============
+%TP [RelationFeature "acute haemorrhage" Type:'mod-time' vs. 'mod-time' (1401,1418)]
+

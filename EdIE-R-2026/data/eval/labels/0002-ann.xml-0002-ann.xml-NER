@@ -1,0 +1,15 @@
+Detailed Scoring Comparison data for document: 0002-ann.xml
+
+FALSE POSITIVES
+===============
+
+FALSE NEGATIVES
+===============
+
+TRUE POSITIVES
+==============
+%TP [EntityFeature "select" Type:'label:Subarachnoid haemorrhage, other' vs. 'label:Subarachnoid haemorrhage, other' (l20 770,776)]
+%TP [EntityFeature "select" Type:'label:Small vessel disease' vs. 'label:Small vessel disease' (l16 630,636)]
+%TP [EntityFeature "select" Type:'label:Haemorrhagic stroke, lobar, recent' vs. 'label:Haemorrhagic stroke, lobar, recent' (l8 363,369)]
+%TP [EntityFeature "select" Type:'label:Subdural haematoma' vs. 'label:Subdural haematoma' (l18 679,685)]
+

@@ -1,0 +1,28 @@
+#!/bin/sh
+
+usage="xmltocsv <output.xml >output.csv"
+
+descr="Convert system output labels to csv."
+
+. `dirname $0`/setup
+
+while [ $# -gt 0 ]; do
+  arg=$1
+  shift
+  case $arg in
+    *)
+      echo "usage: $usage" >&2
+      exit 2
+  esac
+done
+
+if [ $# -ne -0 ]; then
+  echo "usage: $usage" >&2
+  exit 2
+fi
+
+cat >$tmp-input
+
+echo 'doc_id,row_hash_id,sex,age,yob,modality_Desc,healthboard,study,notctmr,move-art,nocontent,justclinhist,otherbodypart,Ischaemic_stroke_deep_recent,Ischaemic_stroke_deep_old,Ischaemic_stroke_cortical_recent,Ischaemic_stroke_cortical_old,Ischaemic_stroke_underspecified,Haemorrhagic_stroke_deep_recent,Haemorrhagic_stroke_deep_old,Haemorrhagic_stroke_lobar_recent,Haemorrhagic_stroke_lobar_old,Haemorrhagic_stroke_underspecified,Stroke_underspecified,Tumour_meningioma,Tumour_metastasis,Tumour_glioma,Tumour_other,Small_vessel_disease,Atrophy,Subdural_haematoma,Subarachnoid_haemorrhage_aneurysmal,Subarachnoid_haemorrhage_other,Microbleed_deep,Microbleed_lobar,Microbleed_underspecified,Haemorrhagic_transformation'
+
+cat $tmp-input | lxprintf -e labels "%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s\n" "../../@id" "../attr[@name='row_hash_id']" "../attr[@name='sex']" "../attr[@name='age']" "../attr[@name='yob']" "../attr[@name='modality_Desc']" "../attr[@name='healthboard']" "../attr[@name='exclude' and .='study']" "../attr[@name='exclude' and .='notctmr']" "../attr[@name='exclude' and .='move-art']" "../attr[@name='exclude' and .='nocontent']" "../attr[@name='exclude' and .='justclinhist']" "../attr[@name='exclude' and .='otherbodypart']" "l[@id='1']/@choice" "l[@id='2']/@choice" "l[@id='3']/@choice" "l[@id='4']/@choice" "l[@id='5']/@choice" "l[@id='6']/@choice" "l[@id='7']/@choice" "l[@id='8']/@choice" "l[@id='9']/@choice" "l[@id='10']/@choice" "l[@id='11']/@choice" "l[@id='12']/@choice" "l[@id='13']/@choice" "l[@id='14']/@choice" "l[@id='15']/@choice" "l[@id='16']/@choice" "l[@id='17']/@choice" "l[@id='18']/@choice" "l[@id='19']/@choice" "l[@id='20']/@choice" "l[@id='21']/@choice" "l[@id='22']/@choice" "l[@id='23']/@choice" "l[@id='24']/@choice" | sed 's/pos/T/g'

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE markables SYSTEM "./src/resource/markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/Relation">
+<markable id="markable_449" span="word_219..word_222" mmax_level="relation"  args="entity:markable_261;entity:markable_262" />
+<markable id="markable_448" span="word_199..word_207" mmax_level="relation"  args="entity:markable_260;entity:markable_263" />
+<markable id="markable_450" span="word_243..word_251" mmax_level="relation"  args="entity:markable_265;entity:markable_266" />
+<markable id="markable_470" span="word_969" mmax_level="relation"  args="entity:markable_336;entity:markable_387" />
+<markable id="markable_471" span="word_1002" mmax_level="relation"  args="entity:markable_43;entity:markable_338" />
+<markable id="markable_472" span="word_1033" mmax_level="relation"  args="entity:markable_47;entity:markable_46" />
+<markable id="markable_473" span="word_1064" mmax_level="relation"  args="entity:markable_50;entity:markable_339" />
+<markable id="markable_455" span="word_387..word_395" mmax_level="relation"  args="entity:markable_278;entity:markable_279" />
+<markable id="markable_474" span="word_1100" mmax_level="relation"  args="entity:markable_53;entity:markable_388" />
+<markable id="markable_456" span="word_597" mmax_level="relation"  args="entity:markable_302;entity:markable_308" />
+<markable id="markable_475" span="word_1096" mmax_level="relation"  args="entity:markable_341;entity:markable_340" />
+<markable id="markable_457" span="word_599..word_601" mmax_level="relation"  args="entity:markable_298;entity:markable_299" />
+<markable id="markable_476" span="word_1139" mmax_level="relation"  args="entity:markable_55;entity:markable_389" />
+<markable id="markable_458" span="word_619" mmax_level="relation"  args="entity:markable_307;entity:markable_309" />
+<markable id="markable_477" span="word_1177" mmax_level="relation"  args="entity:markable_57;entity:markable_390" />
+<markable id="markable_451" span="word_277..word_285" mmax_level="relation"  args="entity:markable_268;entity:markable_271" />
+<markable id="markable_478" span="word_1207" mmax_level="relation"  args="entity:markable_58;entity:markable_391" />
+<markable id="markable_452" span="word_297..word_300" mmax_level="relation"  args="entity:markable_269;entity:markable_270" />
+<markable id="markable_479" span="word_1229" mmax_level="relation"  args="entity:markable_60;entity:markable_392" />
+<markable id="markable_453" span="word_332..word_340" mmax_level="relation"  args="entity:markable_273;entity:markable_276" />
+<markable id="markable_454" span="word_352..word_355" mmax_level="relation"  args="entity:markable_274;entity:markable_275" />
+<markable id="markable_459" span="word_621..word_623" mmax_level="relation"  args="entity:markable_303;entity:markable_304" />
+<markable id="markable_489" span="word_1563..word_1564" mmax_level="relation"  args="entity:markable_413;entity:markable_416" />
+<markable id="markable_488" span="word_1550..word_1553" mmax_level="relation"  args="entity:markable_411;entity:markable_410" />
+<markable id="markable_487" span="word_1514" mmax_level="relation"  args="entity:markable_77;entity:markable_404" />
+<markable id="markable_460" span="word_639" mmax_level="relation"  args="entity:markable_315;entity:markable_314" />
+<markable id="markable_486" span="word_1435" mmax_level="relation"  args="entity:markable_75;entity:markable_396" />
+<markable id="markable_461" span="word_641..word_643" mmax_level="relation"  args="entity:markable_310;entity:markable_28" />
+<markable id="markable_485" span="word_1402" mmax_level="relation"  args="entity:markable_72;entity:markable_395" />
+<markable id="markable_484" span="word_1369" mmax_level="relation"  args="entity:markable_70;entity:markable_394" />
+<markable id="markable_483" span="word_1350" mmax_level="relation"  args="entity:markable_68;entity:markable_353" />
+<markable id="markable_446" span="word_126..word_134" mmax_level="relation"  args="entity:markable_245;entity:markable_257" />
+<markable id="markable_464" span="word_719" mmax_level="relation"  args="entity:markable_33;entity:markable_324" />
+<markable id="markable_482" span="word_1325" mmax_level="relation"  args="entity:markable_66;entity:markable_349" />
+<markable id="markable_447" span="word_142..word_143" mmax_level="relation"  args="entity:markable_246;entity:markable_252" />
+<markable id="markable_465" span="word_775" mmax_level="relation"  args="entity:markable_327;entity:markable_360" />
+<markable id="markable_481" span="word_1298" mmax_level="relation"  args="entity:markable_64;entity:markable_348" />
+<markable id="markable_444" span="word_82..word_85" mmax_level="relation"  args="entity:markable_241;entity:markable_7" />
+<markable id="markable_462" span="word_692" mmax_level="relation"  args="entity:markable_30;entity:markable_323" />
+<markable id="markable_480" span="word_1268" mmax_level="relation"  args="entity:markable_62;entity:markable_393" />
+<markable id="markable_463" span="word_706" mmax_level="relation"  args="entity:markable_31;entity:markable_321" />
+<markable id="markable_468" span="word_907" mmax_level="relation"  args="entity:markable_333;entity:markable_385" />
+<markable id="markable_469" span="word_938" mmax_level="relation"  args="entity:markable_335;entity:markable_386" />
+<markable id="markable_443" span="word_69..word_74" mmax_level="relation"  args="entity:markable_240;entity:markable_243" />
+<markable id="markable_466" span="word_810" mmax_level="relation"  args="entity:markable_38;entity:markable_383" />
+<markable id="markable_467" span="word_854" mmax_level="relation"  args="entity:markable_39;entity:markable_384" />
+</markables>

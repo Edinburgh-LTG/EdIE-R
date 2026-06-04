@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<project name="LTG Java Document Modelling API" default="build" basedir=".">
+
+	<description>
+        Build file for the LTG Java Document Modelling API
+    </description>
+
+	<!-- Import common build macros -->
+	<import file="../../build-macros.xml" />
+
+	<!-- ======================================================================
+         PROPERTIES
+         ====================================================================== -->
+
+	<property name="name" value="LTG Java Document Modelling API Libraries" />
+	<property name="libname" value="ltg-jdm" />
+	<property name="organisation" value="ltg" />
+	<property name="version" value="0.1" />
+	<property name="year" value="2009" />
+
+	<property name="build" location="build" />
+	<property name="build.artifacts" location="${build}/artifacts" />
+	<property name="build.javadocs" location="${build}/javadocs" />
+	<property name="build.instrumented" location="${build}/instrumented-classes" />
+	<property name="bin" location="bin" />
+	<property name="src" location="src" />
+	<property name="build.classes" location="${bin}" />
+	<property name="log" location="${build}/log" />
+	<property name="log.coverage" location="${log}/coverage" />
+	<property name="lib" location="../java" />
+	<property name="junit.dir" location="${build}/test-results" />
+	<property environment="env" />
+
+	<!-- ======================================================================
+         MAIN TARGETS
+         ====================================================================== -->
+
+	<target name="build" description="Build library">
+		<mkdir dir="${build.classes}" />
+		<java-compile srcdir="${src}" destdir="${build.classes}" libdir="${lib}" exclude="ltg-jdm.jar" />
+	</target>
+
+
+	<target name="javadoc" description="Generate the API documentation">
+		<mkdir dir="${build.javadocs}" />
+		<compile-javadocs srcdir="${src}" destdir="${build.javadocs}" libdir="${lib}" name="${name}" version="${version}" year="${year}" />
+	</target>
+
+	<target name="jar" description="Build library jar file" depends="build">
+		<mkdir dir="${build.artifacts}" />
+		<jar destfile="${build.artifacts}/${libname}.jar" basedir="${build.classes}" />
+	</target>
+
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         TEST UNIT TESTS
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+	<target name="test-unit-tests" description="Run unit tests" depends="build">
+		<mkdir dir="${log}" />
+		<mkdir dir="${junit.dir}" />
+		<junit fork="true" forkmode="perTest" haltonfailure="false" printsummary="false" showoutput="false" outputtoformatters="true" maxmemory="1536M" failureproperty="test.failure" timeout="420000" dir=".">
+			<classpath>
+				<pathelement path="${build.classes}" />
+				<fileset dir="${lib}">
+					<include name="**/*.jar" />
+				</fileset>
+			</classpath>
+			<formatter type="xml" />
+			<formatter type="brief" usefile="false" />
+			<sysproperty key="log4j.rootLogger" value="debug, stdout" />
+			<sysproperty key="log4j.appender.stdout" value="org.apache.log4j.ConsoleAppender" />
+
+			<batchtest todir="${junit.dir}">
+				<fileset dir="${src}">
+					<include name="**/*Test.java" />
+					<exclude name="**/*ExtraTest.java" />
+				</fileset>
+			</batchtest>
+		</junit>
+		<antcall target="copy-unit-tests-to-master-build" />
+
+		<fail if="test.failure" message="Unit tests failed." />
+	</target>
+
+	<target name="copy-unit-tests-to-master-build" if="master.junit.dir">
+		<copy todir="${master.junit.dir}">
+			<fileset dir="${junit.dir}" />
+		</copy>
+	</target>
+
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         CLEANUP
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+	<target name="clean" description="Clean up build files">
+		<delete quiet="true" includeemptydirs="true">
+			<fileset dir="${build}" defaultexcludes="no" />
+			<fileset dir="${build.classes}" includes="**/*" excludes=".svn" />
+			<fileset dir="${bin}" defaultexcludes="no" />
+		</delete>
+	</target>
+</project>

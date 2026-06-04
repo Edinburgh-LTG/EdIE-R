@@ -1,0 +1,35 @@
+
+Report 3333 : CT : xxx
+
+Ischaemic stroke, deep, recent [ select ]
+Ischaemic stroke, deep, old [ select ]
+Ischaemic stroke, cortical, recent [ select ]
+Ischaemic stroke, cortical, old [ select ]
+Ischaemic stroke, underspecified [ select ]
+Haemorrhagic stroke, deep, recent [ select ]
+Haemorrhagic stroke, deep, old [ select ]
+Haemorrhagic stroke, lobar, recent [ select ]
+Haemorrhagic stroke, lobar, old [ select ]
+Haemorrhagic stroke, underspecified [ select ]
+Stroke, underspecified [ select ]
+Tumour, meningioma [ select ]
+Tumour, metastasis [ select ]
+Tumour, glioma [ select ]
+Tumour, other [ select ]
+Small vessel disease [ select ]
+Atrophy [ select ]
+Subdural haematoma [ select ]
+Subarachnoid haemorrhage, aneurysmal [ select ]
+Subarachnoid haemorrhage, other [ select ]
+Microbleed, deep [ select ]
+Microbleed, lobar [ select ]
+Microbleed, underspecified [ select ]
+Haemorrhagic transformation [ select ]
+
+CLINICAL HISTORY
+
+Clinical information: ?bleed.
+
+REPORT
+
+Unenhanced scan. Comparison is made to previous CT dated. Established right parietal subcortical gliosis, unchanged since the previous scan. Several patchy white matter low density areas within the corona radiata as well as at the periventricular regions suggestive of small vessel disease. No intra parenchymal bleed. No space occupying lesions or extra-axial collection. Normal cerebellum and brainstem. No bony destruction. No acute haemorrhage. No significant changes to previous.

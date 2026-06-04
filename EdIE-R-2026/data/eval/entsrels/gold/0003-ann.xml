@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="5" id="0003">
+<meta/>
+<text>
+<p><s><w>Report 3333 : CT : xxx</w></s></p>
+
+<p><s><w>Ischaemic stroke, deep, recent</w> <w>[</w> <w id="w001">select</w> <w>]</w></s></p>
+<p><s><w>Ischaemic stroke, deep, old</w> <w>[</w> <w id="w002">select</w> <w>]</w></s></p>
+<p><s><w>Ischaemic stroke, cortical, recent</w> <w>[</w> <w id="w003">select</w> <w>]</w></s></p>
+<p><s><w>Ischaemic stroke, cortical, old</w> <w>[</w> <w id="w004">select</w> <w>]</w></s></p>
+<p><s><w>Ischaemic stroke, underspecified</w> <w>[</w> <w id="w005">select</w> <w>]</w></s></p>
+<p><s><w>Haemorrhagic stroke, deep, recent</w> <w>[</w> <w id="w006">select</w> <w>]</w></s></p>
+<p><s><w>Haemorrhagic stroke, deep, old</w> <w>[</w> <w id="w007">select</w> <w>]</w></s></p>
+<p><s><w>Haemorrhagic stroke, lobar, recent</w> <w>[</w> <w id="w008">select</w> <w>]</w></s></p>
+<p><s><w>Haemorrhagic stroke, lobar, old</w> <w>[</w> <w id="w009">select</w> <w>]</w></s></p>
+<p><s><w>Haemorrhagic stroke, underspecified</w> <w>[</w> <w id="w0010">select</w> <w>]</w></s></p>
+<p><s><w>Stroke, underspecified</w> <w>[</w> <w id="w0011">select</w> <w>]</w></s></p>
+<p><s><w>Tumour, meningioma</w> <w>[</w> <w id="w0012">select</w> <w>]</w></s></p>
+<p><s><w>Tumour, metastasis</w> <w>[</w> <w id="w0013">select</w> <w>]</w></s></p>
+<p><s><w>Tumour, glioma</w> <w>[</w> <w id="w0014">select</w> <w>]</w></s></p>
+<p><s><w>Tumour, other</w> <w>[</w> <w id="w0015">select</w> <w>]</w></s></p>
+<p label="yes"><s><w>Small vessel disease</w> <w>[</w> <w id="w0016">select</w> <w>]</w></s></p>
+<p><s><w>Atrophy</w> <w>[</w> <w id="w0017">select</w> <w>]</w></s></p>
+<p><s><w>Subdural haematoma</w> <w>[</w> <w id="w0018">select</w> <w>]</w></s></p>
+<p><s><w>Subarachnoid haemorrhage, aneurysmal</w> <w>[</w> <w id="w0019">select</w> <w>]</w></s></p>
+<p><s><w>Subarachnoid haemorrhage, other</w> <w>[</w> <w id="w0020">select</w> <w>]</w></s></p>
+<p><s><w>Microbleed, deep</w> <w>[</w> <w id="w0021">select</w> <w>]</w></s></p>
+<p><s><w>Microbleed, lobar</w> <w>[</w> <w id="w0022">select</w> <w>]</w></s></p>
+<p><s><w>Microbleed, underspecified</w> <w>[</w> <w id="w0023">select</w> <w>]</w></s></p>
+<p><s><w>Haemorrhagic transformation</w> <w>[</w> <w id="w0024">select</w> <w>]</w></s></p>
+
+<p><s><w>CLINICAL HISTORY</w></s></p>
+
+<p><s id="s22" proc="no"><w p="JJ" id="w240" pws="yes" g="JJ">Clinical</w> <w p="NN" id="w241" pws="yes" g="NN" l="information" headn="yes">information</w><w p=":" id="w242" pws="no" g=":">:</w> <w p="." id="w243" pws="yes" g=".">?</w><w p="NN" id="w244" pws="no" g="VBN" l="bleed" headn="yes">bleed</w><w p="." id="w245" sb="true" pws="no" g=".">.</w></s></p>
+
+<p><s><w>REPORT</w></s></p>
+
+<p><s id="s23" proc="yes"><w p="JJ" id="w246" pws="yes" g="JJ" l="unenhanced" vstem="unenhance">Unenhanced</w> <w p="NN" id="w247" pws="yes" g="NN" l="scan" vstem="scan" headn="yes">scan</w><w p="." id="w248" sb="true" pws="no" g=".">.</w></s> <s id="s24" proc="yes"><w p="NN" id="w249" pws="yes" g="NN" l="comparison" vstem="compare" headn="yes">Comparison</w> <w p="VBZ" id="w250" pws="yes" g="VBZ" l="be">is</w> <w headv="yes" p="VBN" id="w251" pws="yes" g="VBN" l="make">made</w> <w p="TO" id="w252" pws="yes" g="TO">to</w> <w p="JJ" id="w253" pws="yes" g="JJ">previous</w> <w p="NN" id="w254" pws="yes" g="NN" l="ct" headn="yes">CT</w> <w p="VBN" id="w255" pws="yes" g="VBN" l="date" headv="yes">dated</w><w p="." id="w256" sb="true" pws="no" g=".">.</w></s> <s id="s25" proc="yes"><w stime="old" p="JJ" id="w257" pws="yes" g="VBN" l="established" vstem="establish">Established</w> <w p="JJ" id="w258" pws="yes" g="JJ">right</w> <w sloc="cortical" p="JJ" id="w259" pws="yes" g="JJ">parietal</w> <w sloc="deep" p="JJ" id="w260" pws="yes" g="JJ">subcortical</w> <w p="NN" id="w261" pws="yes" g="NN" l="gliosis" headn="yes">gliosis</w><w p="," id="w262" pws="no" g=",">,</w> <w p="JJ" id="w263" pws="yes" g="JJ" l="unchanged" vstem="unchange">unchanged</w> <w p="IN" id="w264" pws="yes" g="IN">since</w> <w p="DT" id="w265" pws="yes" g="DT">the</w> <w p="JJ" id="w266" pws="yes" g="JJ">previous</w> <w p="NN" id="w267" pws="yes" g="NN" l="scan" vstem="scan" headn="yes">scan</w><w p="." id="w268" sb="true" pws="no" g=".">.</w></s> <s id="s26" proc="yes"><w p="JJ" id="w269" pws="yes" g="JJ">Several</w> <w p="JJ" id="w270" pws="yes" g="NN">patchy</w> <w p="JJ" id="w271" pws="yes" g="JJ">white</w> <w p="NN" id="w272" pws="yes" g="NN" l="matter">matter</w> <w p="JJ" id="w273" pws="yes" g="JJ">low</w> <w p="NN" id="w274" pws="yes" g="NN" l="density" headn="yes">density</w> <w p="NNS" id="w275" pws="yes" g="NNS" l="area" headn="yes">areas</w> <w p="IN" id="w276" pws="yes" g="IN">within</w> <w p="DT" id="w277" pws="yes" g="DT">the</w> <w sloc="deep" p="NN" id="w278" pws="yes" g="NN" l="corona" headn="yes">corona</w> <w sloc="deep" p="NN" id="w279" pws="yes" g="NN" l="radia" headn="yes">radiata</w> <w p="RB" id="w280" pws="yes" g="RB">as</w> <w p="RB" id="w281" pws="yes" g="RB">well</w> <w p="IN" id="w282" pws="yes" g="IN">as</w> <w p="IN" id="w283" pws="yes" g="IN">at</w> <w p="DT" id="w284" pws="yes" g="DT">the</w> <w p="JJ" id="w285" pws="yes" g="JJ">periventricular</w> <w p="NNS" id="w286" pws="yes" g="NNS" l="region" headn="yes">regions</w> <w p="JJ" id="w287" pws="yes" g="JJ">suggestive</w> <w p="IN" id="w288" pws="yes" g="IN">of</w> <w multi="yes" type="small_vessel_disease" p="JJ" id="w289" pws="yes" g="JJ">small</w> <w multi="yes" type="small_vessel_disease" p="NN" id="w290" pws="yes" g="NN" l="vessel">vessel</w> <w multi="yes" type="small_vessel_disease" p="NN" id="w291" pws="yes" g="NN" l="disease" headn="yes">disease</w><w p="." id="w292" sb="true" pws="no" g=".">.</w></s> <s id="s27" proc="yes"><w p="DT" id="w293" pws="yes" g="DT">No</w> <w p="JJ" id="w294" pws="yes" g="NN">intra</w> <w p="JJ" id="w295" pws="yes" g="JJ">parenchymal</w> <w multi="no" type="haemorrhagic_stroke" p="NN" id="w296" pws="yes" g="NN" l="bleed" headn="yes">bleed</w><w p="." id="w297" sb="true" pws="no" g=".">.</w></s> <s id="s28" proc="yes"><w p="DT" id="w298" pws="yes" g="DT">No</w> <w multi="yes" type="tumour" p="NN" id="w299" pws="yes" g="NN" l="space" headn="yes">space</w> <w multi="yes" type="tumour" p="VBG" id="w300" pws="yes" g="VBG" l="occupy" headn="yes">occupying</w> <w multi="yes" type="tumour" p="NNS" id="w301" pws="yes" g="NNS" l="lesion" headn="yes">lesions</w> <w p="CC" id="w302" pws="yes" g="CC">or</w> <w multi="yes" type="subdural_haematoma" p="JJ" id="w303" pws="yes" g="JJ">extra-axial</w> <w multi="yes" type="subdural_haematoma" p="NN" id="w304" pws="yes" g="NN" l="collection" vstem="collect" headn="yes">collection</w><w p="." id="w305" sb="true" pws="no" g=".">.</w></s> <s id="s29" proc="yes"><w p="JJ" id="w306" pws="yes" g="JJ">Normal</w> <w sloc="deep" p="NN" id="w307" pws="yes" g="NN" l="cerebellum" headn="yes">cerebellum</w> <w p="CC" id="w308" pws="yes" g="CC">and</w> <w sloc="deep" p="NN" id="w309" pws="yes" g="NN" l="brainstem" headn="yes">brainstem</w><w p="." id="w310" sb="true" pws="no" g=".">.</w></s> <s id="s30" proc="yes"><w p="DT" id="w311" pws="yes" g="DT">No</w> <w p="NN" id="w312" pws="yes" g="NN" l="bony" headn="yes">bony</w> <w p="NN" id="w313" pws="yes" g="NN" l="destruction" vstem="destroy" headn="yes">destruction</w><w p="." id="w314" sb="true" pws="no" g=".">.</w></s> <s id="s31" proc="yes"><w p="DT" id="w315" pws="yes" g="DT">No</w> <w stime="recent" p="JJ" id="w316" pws="yes" g="JJ">acute</w> <w multi="no" type="haemorrhagic_stroke" p="NN" id="w317" pws="yes" g="NN" l="haemorrhage" headn="yes">haemorrhage</w><w p="." id="w318" sb="true" pws="no" g=".">.</w></s> <s id="s32" proc="yes"><w p="DT" id="w319" pws="yes" g="DT">No</w> <w p="JJ" id="w320" pws="yes" g="JJ">significant</w> <w p="NNS" id="w321" pws="yes" g="NNS" l="change" vstem="change" headn="yes">changes</w> <w p="TO" id="w322" pws="yes" g="TO">to</w> <w stime="old" p="JJ" id="w323" pws="yes" g="JJ">previous</w><w p="." id="w324" sb="true" pws="no" g=".">.</w></s></p>
+</text>
+<standoff>
+<ents source="gold">
+  <ent id="e29" type="time_old" stime="old">
+    <parts>
+      <part ew="w257" sw="w257">Established</part>
+    </parts>
+  </ent>
+  <ent id="e30" type="loc_cortical" sloc="cortical">
+    <parts>
+      <part ew="w259" sw="w259">parietal</part>
+    </parts>
+  </ent>
+  <ent id="e31" type="loc_deep" sloc="deep">
+    <parts>
+      <part ew="w260" sw="w260">subcortical</part>
+    </parts>
+  </ent>
+  <ent id="e32" type="loc_deep" sloc="deep">
+    <parts>
+      <part ew="w279" sw="w278">corona radiata</part>
+    </parts>
+  </ent>
+  <ent id="e33" type="small_vessel_disease">
+    <parts>
+      <part ew="w291" sw="w289">small vessel disease</part>
+    </parts>
+  </ent>
+  <ent id="e34" neg="yes" type="haemorrhagic_stroke">
+    <parts>
+      <part ew="w296" sw="w296">bleed</part>
+    </parts>
+  </ent>
+  <ent id="e35" neg="yes" type="tumour">
+    <parts>
+      <part ew="w301" sw="w299">space occupying lesions</part>
+    </parts>
+  </ent>
+  <ent id="e36" neg="yes" type="subdural_haematoma">
+    <parts>
+      <part ew="w304" sw="w303">extra-axial collection</part>
+    </parts>
+  </ent>
+  <ent id="e37" type="loc_deep" sloc="deep">
+    <parts>
+      <part ew="w307" sw="w307">cerebellum</part>
+    </parts>
+  </ent>
+  <ent id="e38" type="loc_deep" sloc="deep">
+    <parts>
+      <part ew="w309" sw="w309">brainstem</part>
+    </parts>
+  </ent>
+  <ent id="e39" type="time_recent" neg="yes" stime="recent">
+    <parts>
+      <part ew="w316" sw="w316">acute</part>
+    </parts>
+  </ent>
+  <ent id="e40" neg="yes" type="haemorrhagic_stroke">
+    <parts>
+      <part ew="w317" sw="w317">haemorrhage</part>
+    </parts>
+  </ent>
+  <ent id="e41" type="time_old" stime="old">
+    <parts>
+      <part ew="w323" sw="w323">previous</part>
+    </parts>
+  </ent>
+</ents>
+<relations>
+  <relation id="r6" type="mod-time">
+    <argument ref="e40" text="haemorrhage"/>
+    <argument ref="e39" text="acute"/>
+  </relation>
+</relations>
+</standoff>
+</document>
+

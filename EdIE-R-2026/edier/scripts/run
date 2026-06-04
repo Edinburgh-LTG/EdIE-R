@@ -1,0 +1,109 @@
+#!/bin/sh
+
+usage="run <input >stdout"
+
+descr="Run all the components over a document."
+
+. `dirname $0`/setup
+
+while [ $# -gt 0 ]; do
+  arg=$1
+  shift
+  case $arg in
+    *)
+      echo "usage: $usage" >&2
+      exit 2
+  esac
+done
+
+if [ $# -ne -0 ]; then
+  echo "usage: $usage" >&2
+  exit 2
+fi
+
+# prepare document
+
+cat >$tmp-input
+
+cat $tmp-input |
+lxtransduce -q section $here/lib/pretok/paras.gr |
+lxt -s $here/lib/pretok/makeheader.xsl >$tmp-pretok
+
+# tokenise
+
+cat $tmp-pretok |
+$here/scripts/tokenise |
+lxt -s $here/lib/tokenise/exclude.xsl |
+lxt -s $here/lib/tokenise/addproc.xsl >$tmp-tokenised
+
+# POS tag
+
+cat $tmp-tokenised |
+$here/scripts/postag -m $here/models/pos >$tmp-firsttagged
+
+cat $tmp-firsttagged |
+$here/scripts/geniatag -m $here/models/genia >$tmp-secondtagged
+
+cat $tmp-secondtagged |
+lxt -s $here/lib/postag/correctpos1.xsl |
+lxt -s $here/lib/postag/correctpos2.xsl |
+lxt -s $here/lib/postag/correctspell.xsl >$tmp-postagged
+
+# lemmatise
+
+$here/scripts/lemmatise <$tmp-postagged >$tmp-lemmatised
+
+# NER (lexlookup)
+
+cat $tmp-lemmatised |
+$here/scripts/numtimex >$tmp-numtimex
+
+$here/scripts/scanlexlookup <$tmp-numtimex >$tmp-nertagged
+
+# chunk
+
+cat $tmp-nertagged |
+$here/scripts/chunk -s brain -f inline |
+lxt -s $here/lib/chunk/propagatescan.xsl |
+lxtransduce -q s $here/lib/chunk/complexng.gr |
+lxt -s $here/lib/chunk/propagatescan2.xsl |
+lxtransduce -r -q "ng|vg|ag" $here/lib/chunk/ent.gr |
+lxtransduce -q "ent[@type='ischaemic_stroke']" -a modb $here/lib/chunk/ent.gr |
+lxtransduce -q "ent[@type='haemorrhagic_stroke']" -a modb $here/lib/chunk/ent.gr >$tmp-chunked
+
+# relations
+
+cat $tmp-chunked |
+lxt -s $here/lib/chunk/propagateneg.xsl |
+lxtransduce -q "s[@proc='yes']" $here/lib/reln/negrel.gr |
+lxt -s $here/lib/reln/adjustng.xsl |
+lxreplace -q "ag[@type]" -t "<ng>&attrs;&children;</ng>" |
+lxreplace -q "ng[not(@type)]" -t "&children;" |
+lxreplace -q "ng[not(.//ent[not(@sloc or @stime)])]" -t "&children;" |
+lxreplace -q "ag|rg|sg|pg|vg" |
+lxt -s $here/lib/reln/ents.xsl |
+lxaddids -e "ent" -p "'e'" |
+lxreplace -q "w[@sp]" -t "<w>&attrs;<xsl:value-of select='@sp'/></w>" |
+lxreplace -q "@sp" -t "" |
+lxreplace -q "standoff" -t "<standoff><relations/></standoff>" |
+lxtransduce -q "s[@proc='yes']" $here/lib/reln/locreln.gr |
+lxt -s $here/lib/reln/standoff-reln.xsl |
+lxtransduce -q "s[@proc='yes']" $here/lib/reln/timereln.gr |
+lxt -s $here/lib/reln/standoff-reln.xsl |
+lxt -s $here/lib/reln/standoff-nglocrel.xsl |
+lxt -s $here/lib/reln/standoff-ngtimerel.xsl |
+lxt -s $here/lib/reln/formatrelns.xsl |
+lxreplace -q "relations[not(relation)]" -t "" |
+lxaddids -e relation -p "'r'" >$tmp-reln
+
+# label
+
+cat $tmp-reln |
+lxt -s $here/lib/label/label.xsl |
+lxt -s $here/lib/label/standoff-ent.xsl |
+lxreplace -q "ng" |
+lxreplace -q "s//ent" >$tmp-out
+
+cat $tmp-out
+
+

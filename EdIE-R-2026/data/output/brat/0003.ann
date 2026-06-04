@@ -1,0 +1,20 @@
+Te29	time_old 1029 1040	Established
+Te30	loc_cortical 1047 1055	parietal
+Te31	loc_deep 1056 1067	subcortical
+Te32	loc_deep 1169 1183	corona radiata
+Te33	small_vessel_disease 1240 1260	small vessel disease
+Te34	haemorrhagic_stroke 1283 1288	bleed
+Te35	tumour 1293 1316	space occupying lesions
+Te36	subdural_haematoma 1320 1342	extra-axial collection
+Te37	loc_deep 1351 1361	cerebellum
+Te38	loc_deep 1366 1375	brainstem
+Te39	time_recent 1401 1406	acute
+Te40	haemorrhagic_stroke 1407 1418	haemorrhage
+Te41	time_old 1446 1454	previous
+Tl16	label_yes 630 636	select
+Rr6	mod-time Arg1:Te40 Arg2:Te39
+A1	negated Te34
+A2	negated Te35
+A3	negated Te36
+A4	negated Te39
+A5	negated Te40

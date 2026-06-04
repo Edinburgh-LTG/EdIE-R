@@ -1,0 +1,41 @@
+The distribution of EdIE-R in the edier/ directory is the version
+reported in Alex et. al (2026). It runs on 64 bit Linux and Macintosh
+platforms. It does not require any installation steps except on
+recent versions of MacOS (since Catalina) which will not, by default, run
+programs downloaded from the web.
+
+If you are using recent MacOS, before running EdIE-R for the first
+time, run this command in your terminal in the top-level edier/
+directory:
+
+xattr -d com.apple.quarantine bin/*/*
+
+This will remove the “quarantine” flag from the binaries.
+
+
+The run script, edier/scripts/run, takes XML input files in the format
+of the file data/input/synthetic.xml and produces the XML output
+data/output/synthetic.xml.
+
+To test that EdIE-R is properly installed and working correctly, it
+can be run as follows.
+
+First, change directory to edier/scripts/:
+
+cd edier/scripts/
+
+The following command passes the input file to edier/scripts/run and
+sends output to stdout:
+
+cat ../../data/input/synthetic.xml | ./run
+
+The output can be compared to the output file
+data/output/synthetic.xml by using diff, which should return no
+differences:
+
+cat ../../data/input/synthetic.xml | ./run | diff - ../../data/output/synthetic.xml
+
+In doc/outputformats.txt we describe the commands that we used to
+create EdIE-R output as well as various transformations of it for data
+analysis and visualisation.
+

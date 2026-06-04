@@ -1,0 +1,3 @@
+<!ELEMENT markables (markable*)>
+<!ELEMENT markable (#PCDATA)>
+<!ATTLIST markable id ID #REQUIRED>

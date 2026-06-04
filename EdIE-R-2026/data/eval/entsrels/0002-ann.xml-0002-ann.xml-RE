@@ -1,0 +1,13 @@
+Detailed Scoring Comparison data for document: 0002-ann.xml
+
+FALSE POSITIVES
+===============
+
+FALSE NEGATIVES
+===============
+
+TRUE POSITIVES
+==============
+%TP [RelationFeature "acute haemorrhage" Type:'mod-time' vs. 'mod-time' (1601,1618)]
+%TP [RelationFeature "haemorrhage in the left frontal lobe" Type:'mod-loc' vs. 'mod-loc' (1607,1643)]
+

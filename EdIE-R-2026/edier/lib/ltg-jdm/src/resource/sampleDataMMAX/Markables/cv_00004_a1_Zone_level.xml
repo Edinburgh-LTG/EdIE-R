@@ -1,0 +1,7 @@
+<!DOCTYPE markables SYSTEM "./src/resource/markables.dtd"><markables xmlns="www.eml.org/NameSpaces/ZoneTitle">
+<markable zone_type="summary" span="word_49..word_50" mmax_level="zonetitle" id="markable_11"/>
+<markable zone_type="employment" span="word_195..word_196" mmax_level="zonetitle" id="markable_29"/>
+<markable zone_type="education" span="word_335..word_336" mmax_level="zonetitle" id="markable_81"/>
+<markable zone_type="skills" span="word_373" mmax_level="zonetitle" id="markable_92"/>
+<markable zone_type="employment" span="word_373" mmax_level="zonetitle" id="markable_93"/>
+</markables>

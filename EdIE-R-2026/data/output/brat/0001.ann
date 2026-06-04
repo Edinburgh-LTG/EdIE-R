@@ -1,0 +1,18 @@
+Te1	loc_cortical 1182 1204	middle cerebral artery
+Te2	time_recent 1221 1226	acute
+Te3	loc_cortical 1283 1286	MCA
+Te4	time_recent 1347 1355	Evolving
+Te5	loc_cortical 1361 1364	MCA
+Te6	ischaemic_stroke 1365 1375	infarction
+Te7	time_recent 1380 1385	acute
+Te8	haemorrhagic_stroke 1386 1397	haemorrhage
+Te9	atrophy 1416 1423	atrophy
+Te10	small_vessel_disease 1539 1577	small vessel cerebrovascular ischaemia
+Tl3	label_yes 143 149	select
+Tl16	label_yes 630 636	select
+Tl17	label_yes 649 655	select
+Rr1	mod-loc Arg1:Te6 Arg2:Te5
+Rr2	mod-time Arg1:Te6 Arg2:Te4
+Rr3	mod-time Arg1:Te8 Arg2:Te7
+A1	negated Te7
+A2	negated Te8

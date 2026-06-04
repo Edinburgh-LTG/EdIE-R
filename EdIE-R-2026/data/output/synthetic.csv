@@ -1,0 +1,4 @@
+doc_id,row_hash_id,sex,age,yob,modality_Desc,healthboard,study,notctmr,move-art,nocontent,justclinhist,otherbodypart,Ischaemic_stroke_deep_recent,Ischaemic_stroke_deep_old,Ischaemic_stroke_cortical_recent,Ischaemic_stroke_cortical_old,Ischaemic_stroke_underspecified,Haemorrhagic_stroke_deep_recent,Haemorrhagic_stroke_deep_old,Haemorrhagic_stroke_lobar_recent,Haemorrhagic_stroke_lobar_old,Haemorrhagic_stroke_underspecified,Stroke_underspecified,Tumour_meningioma,Tumour_metastasis,Tumour_glioma,Tumour_other,Small_vessel_disease,Atrophy,Subdural_haematoma,Subarachnoid_haemorrhage_aneurysmal,Subarachnoid_haemorrhage_other,Microbleed_deep,Microbleed_lobar,Microbleed_underspecified,Haemorrhagic_transformation
+0001,1111,F,34,1980,CT,xxx,,,,,,,,,T,,,,,,,,,,,,,T,T,,,,,,,
+0002,2222,M,42,1969,CT,xxx,,,,,,,,,,,,,,T,,,,,,,,T,,T,,T,,,,
+0003,3333,F,62,1956,CT,xxx,,,,,,,,,,,,,,,,,,,,,,T,,,,,,,,
