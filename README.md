@@ -26,4 +26,4 @@ git clone https://github.com/Edinburgh-LTG/EdIE-R
 
 ## Contact
 
-If you have questions about the tool, please contact [Beatrice Alex]{https://www.hw.ac.uk/profiles/uk/school/macs/faculty/beatrice-alex}.
+If you have questions about the tool, please contact [Beatrice Alex]{https://www.hw.ac.uk/profiles/uk/school/macs/faculty/beatrice-alex}[Beatrice Alex].
