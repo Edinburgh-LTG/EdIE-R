@@ -29,6 +29,8 @@ EdIE-R labels reports with the following 24 phenotypes at the document-level:
 * Microbleed: Deep · Lobar · Underspecified
 * Haemorrhagic transformation
 
+Example ouput can be viewed in html format in `data/output/synthetic.html`, e.g. see one synthetic report labelled in Figure 1.
+
 ## Installation
 
 ```bash
