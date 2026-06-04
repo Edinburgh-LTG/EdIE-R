@@ -9,6 +9,25 @@ The version (EdIE-R-2026) released here has been externally tested on brain imag
 
 Documentation specific to the tool itself, how to run it, its input and output etc. can be found in the `doc` folder.
 
+## Supported Phenotypes
+
+EdIE-R labels reports with the following 24 phenotypes at the document-level:
+
+### Stroke (11)
+Ischaemic stroke: Deep recent/old · Cortical recent/old  · Underspecified
+Haemorrhagic stroke: Deep/Lobar recent/old · Underspecified 
+Stroke: underspecified
+
+### Tumour (4)
+Meningioma · Metastasis · Glioma · Other
+
+### Other Neurological Findings (9)
+Small vessel disease
+Atrophy
+Subdural haematoma
+Subarachnoid haemorrhage: aneurysmal/other
+Microbleed: Deep · Lobar · Underspecified
+Haemorrhagic transformation
 
 ## Installation
 
@@ -18,12 +37,12 @@ git clone https://github.com/Edinburgh-LTG/EdIE-R
 
 ## Citation
 
-Alex, Beatrice, Grover, Claire, Casey, Arlene, Tobin, Richard, Whalley, Heather, & Whiteley, William (2026). GS-BrainText: A Multi-Site Brain Imaging Report Dataset from Generation Scotland for Clinical Natural Language Processing Development and Validation, In Procedings of the Clinical NLP Workshop, LREC 2026, ELRA Language Resources Association, Palma, Spain, 16th of May 2026, arXiv preprint arXiv:2603.26235.
+Alex, Beatrice, Grover, Claire, Casey, Arlene, Tobin, Richard, Whalley, Heather, & Whiteley, William (2026). GS-BrainText: A Multi-Site Brain Imaging Report Dataset from Generation Scotland for Clinical Natural Language Processing Development and Validation, In Proceedings of the Clinical NLP Workshop, LREC 2026, ELRA Language Resources Association, Palma, Spain, 16th of May 2026, arXiv preprint arXiv:2603.26235.
 
 ```
-@inproceedings{alex2026gs-braintexts,
+@inproceedings{alex2026gs-braintext,
   title={GS-BrainText: A Multi-Site Brain Imaging Report Dataset from Generation Scotland for Clinical Natural Language Processing Development and Validation},
-  author={Alex, Beatrice and Grover, Claire and Casey, Arlene and Tobin, Richard and Whalley, Heather and & Whiteley, William},
+  author={Alex, Beatrice and Grover, Claire and Casey, Arlene and Tobin, Richard and Whalley, Heather and Whiteley, William},
   booktitle={LREC 2026},
   year={2026},
   organization={ELRA Language Resources Association},
