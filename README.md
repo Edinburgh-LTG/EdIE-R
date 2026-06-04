@@ -34,6 +34,8 @@ EdIE-R labels reports with the following 24 phenotypes at the document-level:
 
 Example ouput can be viewed in html format in `data/output/synthetic.html`, e.g. see one synthetic report labelled in Figure 1.
 
+![Caption](/images/figure01.png)
+
 ## Installation
 
 ```bash
