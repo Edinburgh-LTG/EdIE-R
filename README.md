@@ -55,8 +55,8 @@ git clone https://github.com/Edinburgh-LTG/EdIE-R
 
 Tested on:
 
-Linux: ...
-MacOS: x86_64 and amd64 processors (see EdIE-R-2006/bin for binaries)
+* Linux: ...
+* MacOS: x86_64 and amd64 processors (see `EdIE-R-2006/bin` for binaries)
 
 ## Citation
 
