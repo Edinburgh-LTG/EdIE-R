@@ -44,11 +44,19 @@ Example ouput can be viewed in html format in `EdIE-R-2026/data/output/synthetic
 
 ## Documentation
 
-Documentation specific to the tool, how to run and evaluate it, its input and output formats etc. can be found in the `EdIE-R-2026/doc` folder. A good place to start is the `overview.txt`.## GitHub Installation
+Documentation specific to the tool, how to run and evaluate it, its input and output formats etc. can be found in the `EdIE-R-2026/doc` folder. A good place to start is the `overview.txt`.
+
+
+## GitHub Installation
 
 ```bash
 git clone https://github.com/Edinburgh-LTG/EdIE-R
 ```
+
+Tested on:
+
+Linux: ...
+MacOS: x86_64 and amd64 processors (see EdIE-R-2006/bin for binaries)
 
 ## Citation
 
