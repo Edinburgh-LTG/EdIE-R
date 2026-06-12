@@ -58,9 +58,11 @@ Tested on:
 * Linux: ...
 * MacOS: x86_64 and amd64 processors (see `EdIE-R-2006/bin` for binaries)
 
-## Citation
+## Citations
 
-Alex, Beatrice, Grover, Claire, Casey, Arlene, Tobin, Richard, Whalley, Heather, & Whiteley, William (2026). GS-BrainText: A Multi-Site Brain Imaging Report Dataset from Generation Scotland for Clinical Natural Language Processing Development and Validation, In Proceedings of the Clinical NLP Workshop, LREC 2026, ELRA Language Resources Association, Palma, Spain, 16th of May 2026, arXiv preprint arXiv:2603.26235.
+The version of EdIE-R released here is accompanied by the following data paper (Alex et al., 2026) on which it was evaluated most recently. So we would ask you to cite it along with the original system paper (Alex et al., 2019) listed below:
+
+Alex, Beatrice, Grover, Claire, Casey, Arlene, Tobin, Richard, Whalley, Heather and Whiteley, William (2026). GS-BrainText: A Multi-Site Brain Imaging Report Dataset from Generation Scotland for Clinical Natural Language Processing Development and Validation, In Proceedings of the Clinical NLP Workshop, LREC 2026, ELRA Language Resources Association, Palma, Spain, 16th of May 2026, arXiv preprint arXiv:2603.26235.
 
 ```
 @inproceedings{alex2026gs-braintext,
@@ -72,6 +74,20 @@ Alex, Beatrice, Grover, Claire, Casey, Arlene, Tobin, Richard, Whalley, Heather,
   location={Palma, Spain},
   date={16th of May 2026},
   url={https://arxiv.org/abs/2603.26235}
+}
+```
+
+Alex, Beatrice, Claire Grover, Richard Tobin, Cathie Sudlow, Grant Mair, and William Whiteley (2019. "Text mining brain imaging reports." Journal of biomedical semantics 10, no. Suppl 1 (2019): 23.
+
+```
+@article{alex2019text,
+  title={Text mining brain imaging reports},
+  author={Alex, Beatrice and Grover, Claire and Tobin, Richard and Sudlow, Cathie and Mair, Grant and Whiteley, William},
+  journal={Journal of Biomedical Semantics},
+  volume={10},
+  number={Suppl 1},
+  pages={23},
+  publisher={Springer}
 }
 ```
 
