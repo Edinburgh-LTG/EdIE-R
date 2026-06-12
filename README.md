@@ -1,13 +1,15 @@
 # EdIE-R
 **<em>A tool for phenotyping brain imaging reports...</em>**
 
-... and reported on in our paper: [**GS-BrainText: A Multi-Site Brain Imaging Report Dataset from Generation Scotland for Clinical Natural Language Processing Development and Validation.**](https://arxiv.org/abs/2603.26235) at the Clinical NLP Workshop at LREC 20206.
+... and reported on in our paper: [**GS-BrainText: A Multi-Site Brain Imaging Report Dataset from Generation Scotland for Clinical Natural Language Processing Development and Validation**](https://arxiv.org/abs/2603.26235) at the [Clinical NLP Workshop](https://clinical-nlp.github.io/2026/) at LREC (the Language Resources and Evaluation Conference) 2026.
 
-The **Edinburgh Information Extraction for Radiology reports (EdIE-R)** system is a text mining pipeline designed to classify reports of CT and MRI brain scans. It automatically assigns phenotypes, labels that indicate the presence and type of conditions such as types of stroke and tumour, along with other neurological findings. EdIE-R extracts entities, detects negation and identifies relationships between entities within each report, and generates report-level labels.
+The **Edinburgh Information Extraction for Radiology reports (EdIE-R)** system is a text mining pipeline designed to classify reports of computed tomography (CT) and magnetic resonance imaging (MRI) brain scans. It automatically assigns phenotypes, labels that indicate the presence and type of conditions such as types of stroke and tumour, along with other neurological findings. EdIE-R extracts entities, detects negation and identifies relationships between entities within each report, and generates report-level labels.
 
-The version (EdIE-R-2026) released here has been externally tested on brain imaging reports from [Generation Scotland](https://genscot.ed.ac.uk) reported in our paper cited below (Alex et al., 2026) and was previously [compared to four other systems](https://doi.org/10.3389/fdgth.2023.1184919).
+The version (EdIE-R-2026) released here has been externally tested on brain imaging reports from [Generation Scotland](https://genscot.ed.ac.uk) reported in our paper cited below (Alex et al., 2026) and its performance was previously [compared to four other systems](https://doi.org/10.3389/fdgth.2023.1184919).
 
 Developed through extensive analysis and validation using Scottish brain imaging reports and expert-annotated data, EdIE-R was originally developed for and evaluated on datasets from the [Edinburgh Stroke Study](https://doi.org/10.1186/s13326-019-0211-7) and [NHS Tayside](https://doi.org/10.1186/s12911-019-0908-7). We also validated the initial release for [modifiers and findings](https://aclanthology.org/2020.louhi-1.4/) as well as [negations](https://www.cambridge.org/core/journals/natural-language-engineering/article/comparison-of-rulebased-and-neural-network-models-for-negation-detection-in-radiology-reports/9A7B3868603C408A7DC67D74DB240B7D) marked up in the text.
+
+Most recently, EdIE-R has been used in large-scale Scottish population based epidemiological research studies (e.g. Hosking et al., 2026: https://doi.org/10.1093/esj/aakag023.275 and Iveson et al., 2026: https://doi.org/10.1136/jnnp-2025-337689).
 
 ## Supported Phenotypes
 
@@ -77,7 +79,7 @@ Alex, Beatrice, Grover, Claire, Casey, Arlene, Tobin, Richard, Whalley, Heather 
 }
 ```
 
-Alex, Beatrice, Claire Grover, Richard Tobin, Cathie Sudlow, Grant Mair, and William Whiteley (2019. "Text mining brain imaging reports." Journal of biomedical semantics 10, no. Suppl 1 (2019): 23.
+Alex, Beatrice, Claire Grover, Richard Tobin, Cathie Sudlow, Grant Mair, and William Whiteley (2019). "Text mining brain imaging reports." Journal of Biomedical Semantics, 10, Suppl 1 (2019): 23.
 
 ```
 @article{alex2019text,
